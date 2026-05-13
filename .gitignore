@@ -1,0 +1,6 @@
+.env
+
+.angular/cache/
+node_modules/
+dist/
+*.pack

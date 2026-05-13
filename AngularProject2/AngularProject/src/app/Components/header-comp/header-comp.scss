@@ -1,0 +1,59 @@
+::ng-deep .golden-menubar-with-icons {
+  background-color: #fdfbfb !important; // רקע עדין, לבן-שמנתי
+  border-radius: 25px;
+  padding: 8px 20px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+  display: flex;
+  justify-content: center;
+
+  .p-menuitem-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    border-radius: 20px;
+    margin: 0 6px;
+    padding: 10px 22px;
+    color: #444 !important;
+    font-weight: 600;
+    transition: all 0.3s;
+    position: relative;
+
+    i {
+      font-size: 1.1rem;
+      color: #b38728;
+      transition: color 0.3s;
+    }
+
+    &:hover,
+    &:focus {
+      background: linear-gradient(135deg, #d4af37 0%, #b38728 100%) !important;
+      color: white !important;
+
+      i {
+        color: white !important;
+      }
+
+      box-shadow: 0 8px 20px rgba(212,175,55,0.4);
+      transform: translateY(-2px);
+    }
+  }
+
+  .p-menuitem-text {
+    color: inherit !important;
+    font-weight: 600;
+  }
+}
+
+// רספונסיבי
+@media (max-width: 768px) {
+  ::ng-deep .golden-menubar-with-icons {
+    flex-wrap: wrap;
+    justify-content: center;
+
+    .p-menuitem-link {
+      width: 100%;
+      justify-content: center;
+      margin: 4px 0;
+    }
+  }
+}

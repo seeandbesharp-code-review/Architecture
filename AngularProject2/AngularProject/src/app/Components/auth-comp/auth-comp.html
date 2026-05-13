@@ -1,0 +1,119 @@
+<p-toast></p-toast>
+
+<div class="auth-container"
+    style="display: flex; justify-content: center; align-items: center; width: 100vw; height: 100vh;">
+    <div class="" style="display: flex; flex-direction: row; align-items: start; gap: 4rem;">
+        <div class="image-wrapper">
+
+            <img (click)="showLogin()" src="assets\images\auth\login.gif" style="width: 25vw; height: 25vw;">
+            <div class="aaaa">כניסה</div>
+        </div>
+        <div class="image-wrapper">
+
+
+            <img (click)="showRegister()" src="assets\images\auth\signup.gif" style="width: 25vw; height: 25vw;">
+            <div class="aaaa">הרשמה</div>
+
+        </div>
+        <div class="image-wrapper">
+
+            <img (click)="logout()" src="assets\images\auth\logout.gif" style="width: 25vw; height: 25vw;">
+            <div class="aaaa">התנתקות</div>
+
+        </div>
+
+    </div>
+
+    <p-dialog header="ברוך הבא חזרה!" [(visible)]="visibleLogin" [modal]="true" [style]="{ width: '25rem' }">
+        <div class="form-grid">
+            <p-floatLabel>
+                <input pInputText id="email_login" [(ngModel)]="email" class="w-full" />
+                <label for="email_login">אימייל</label>
+            </p-floatLabel>
+            <p-floatLabel>
+                <input pInputText id="phone_login" [(ngModel)]="phone" class="w-full" />
+                <label for="phone_login">טלפון</label>
+            </p-floatLabel>
+
+
+            <p-floatLabel>
+                <input pInputText type="password" id="pass_login" [(ngModel)]="password" class="w-full" />
+                <label for="pass_login">סיסמה</label>
+            </p-floatLabel>
+
+            <div *ngIf="errorMessage" class="error-container">
+                <i class="pi pi-exclamation-circle"></i>
+                <span>{{ errorMessage }}</span>
+            </div>
+            <p-button label="היכנס עכשיו" (onClick)="login()" class="w-full" styleClass="w-full mt-2"></p-button>
+        </div>
+    </p-dialog>
+
+    <p-dialog header="יצירת חשבון חדש" [(visible)]="visibleRegister" [modal]="true" [draggable]="false"
+        [resizable]="false" [style]="{ width: '32rem' }" [closable]="true" (onHide)="resetForm()"
+        styleClass="register-dialog">
+
+        <div class="form-grid">
+
+            <div class="name-row">
+                <p-floatLabel>
+                    <input pInputText id="fname" [(ngModel)]="firstName" required />
+                    <label for="fname">שם פרטי</label>
+                </p-floatLabel>
+
+                <p-floatLabel>
+                    <input pInputText id="lname" [(ngModel)]="lastName" required />
+                    <label for="lname">שם משפחה</label>
+                </p-floatLabel>
+            </div>
+            <div class="name-row">
+
+            <p-floatLabel>
+                <input pInputText id="email_reg" [(ngModel)]="email" type="email" required />
+                <label for="email_reg">אימייל</label>
+            </p-floatLabel>
+
+            <p-floatLabel>
+                <input pInputText id="phone_reg" [(ngModel)]="phone" (keypress)="allowOnlyNumbers($event)" />
+                <label for="phone_reg">מספר טלפון</label>
+            </p-floatLabel>
+                </div>
+
+            <p-password [(ngModel)]="password" placeholder="סיסמה" [toggleMask]="true" [feedback]="true"  styleClass="w-full"
+                [promptLabel]="'הזן סיסמה'" [weakLabel]="'חלשה'" [mediumLabel]="'בינונית'" [strongLabel]="'חזקה'"
+                [style]="{ width: '100%' }" (onInput)="checkPasswordStrength()">
+            </p-password>
+
+            <div class="password-meter">
+                <div class="meter-bg">
+                    <div class="meter-fill" [style.width.%]="passwordStrength" [ngClass]="passwordStrengthClass">
+                    </div>
+                </div>
+            </div>
+
+            <p-password [(ngModel)]="confirmPassword" placeholder="אימות סיסמה" [toggleMask]="false" [feedback]="false"
+                [style]="{ width: '100%' }">
+            </p-password>
+
+            <div *ngIf="errorMessage" class="error-container">
+                <i class="pi pi-exclamation-circle"></i>
+                <span>{{ errorMessage }}</span>
+            </div>
+
+             
+            <div class="buttons-row">
+                <p-button label="סיים הרשמה" severity="success" class="w-full" (onClick)="register()">
+                </p-button>
+
+                <p-button label="ביטול" severity="danger" class="w-full mt-2"
+                    (onClick)="visibleRegister = false; resetForm()">
+                </p-button>
+            </div>
+
+        </div>
+    </p-dialog>
+
+
+
+
+</div>

@@ -1,0 +1,89 @@
+<div class="gift-container">
+  <p-toast></p-toast>
+
+
+    <!-- ה-overlay הועבר לרמת הדף הכללית -->
+    <div class="overlay" *ngIf="isLoading">
+        <div class="spinner"></div>
+    </div>
+    <div style="display: flex; justify-content: space-between;">
+        <div class="header-section">
+            <div class="controls">
+                <span class="search-box">
+                    <i class="pi pi-search"></i>
+                    <input placeholder="חפש לפי שם מתנה" pInputText [(ngModel)]="searchText"
+                        (ngModelChange)="first=0; updatePage()" />
+                </span>
+                <span class="search-box">
+                    <i class="pi pi-search"></i>
+                    <input placeholder="חפש לפי שם תורם" pInputText [(ngModel)]="searchTextDonor"
+                        (ngModelChange)="first=0; updatePage()" />
+                </span>
+
+                <p-dropdown [(ngModel)]="selectedSort" [options]="sortOptions" optionLabel="label"
+                    (onChange)="first=0; updatePage()" [showClear]="true" placeholder="בחר סינון ">
+                </p-dropdown>
+                <p-dropdown [options]="allCategories" optionLabel="name" [(ngModel)]="selectedCategory"
+                    (onChange)="orderByCategory($event.value?.id)" placeholder="סנן לפי קטגוריה" [showClear]="true">
+                </p-dropdown>
+            </div>
+        </div>
+    </div>
+    <ng-container *ngIf="allGifts.length > 0; else loading">
+        <div class="gift-grid">
+            <div *ngFor="let gift of pagedGifts" class="gift-card" (click)="GetById(gift.id)">
+
+                <div class="image-wrapper">
+                    <img (click)="details(gift.id)" [src]="'assets/images/gifts/' + gift.image" [alt]="gift.name">
+                    <p>{{ 'assets/images/gifts/' + gift.image }}</p>
+
+                    <div class="category-badge">{{ gift.category }}</div>
+                </div>
+
+                <div class="card-content">
+                    <div class="main-info">
+                        <h3>{{ gift.name }}</h3>
+                        <p class="donor">תורם: {{ gift.donor }}</p>
+                        <p class="donor">זוכה: {{ gift.winnerName || 'לא הוגרלה' }}</p>
+                    </div>
+                    <div class="price-section">
+                        <span class="price-label">כרטיס ב-</span>
+                        <span class="amount">{{ gift.ticketPrice | currency:'ILS':'symbol':'1.0-0' }}</span>
+                    </div>
+
+                    <button class="add-to-cart-btn" (click)="addToCart(gift.id); $event.stopPropagation()">
+                        <span>הוספה לסל</span>
+                        <i class="pi pi-shopping-cart"></i>
+                    </button>
+                    <button *ngIf="isAdmin" class="add-to-cart-btn" style="margin-bottom: 10px; margin-top: 15px;"
+                        (click)="raffleGift(gift.id); $event.stopPropagation()">
+                        <span>הגרל</span>
+                        <i class="pi pi-star"></i>
+                    </button>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="paginator-wrapper" style="margin-top: 2rem;">
+            <div style="direction: ltr;">
+                <p-paginator (onPageChange)="onPageChange($event)" [first]="first" [rows]="rows"
+                    [totalRecords]="filteredAndSortedPrizes.length" [rowsPerPageOptions]="[6, 12, 24]">
+                </p-paginator>
+            </div>
+        </div>
+    </ng-container>
+
+
+
+    <ng-template #loading>
+        <div class="loading-state" style="text-align: center; padding: 50px;">
+            <p-progressSpinner></p-progressSpinner>
+            <p>טוען את הגלריה היוקרתית...</p>
+        </div>
+    </ng-template>
+</div>
+
+<app-gift-buyers-detail-comp [giftId]="selectedGiftId" [giftName]="selectedGiftName"
+    [(displayDialog)]="displayBuyersDialog">
+</app-gift-buyers-detail-comp>

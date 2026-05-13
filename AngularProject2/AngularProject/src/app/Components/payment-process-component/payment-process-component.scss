@@ -1,0 +1,138 @@
+.payment-container {
+    direction: rtl;
+    // max-width: 600px;
+    margin: auto;
+    padding: 1rem;
+    font-family: Arial, sans-serif;
+    color: #333;
+
+    .steps-header {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 1.5rem;
+
+        .step {
+            text-align: center;
+            flex: 1;
+            padding: 0.5rem;
+
+            &.active .step-number {
+                background-color: #007bff;
+                color: white;
+            }
+
+            .step-number {
+                width: 30px;
+                height: 30px;
+                border-radius: 50%;
+                border: 1px solid #ccc;
+                margin: auto;
+                line-height: 30px;
+            }
+
+            .step-label {
+                margin-top: 0.2rem;
+                font-size: 0.9rem;
+            }
+        }
+    }
+
+    .form-step {
+        display: flex;
+        flex-direction: column;
+
+        .form-row {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 1rem;
+
+            input {
+                padding: 0.5rem;
+                border: 1px solid #ccc;
+                border-radius: 6px;
+                font-size: 1rem;
+            }
+
+            .error {
+                font-size: 0.8rem;
+                color: #d32f2f;
+                margin-top: 0.2rem;
+            }
+
+            &.split-row {
+                flex-direction: row;
+                gap: 1rem;
+
+                >div {
+                    flex: 1;
+                    display: flex;
+                    flex-direction: column;
+                }
+            }
+        }
+
+        .address-row {
+            display: flex;
+            gap: 0.8rem;
+
+            input {
+                flex: 1;
+            }
+        }
+
+        .actions {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 1rem;
+
+            .btn-back {
+                background: #ccc;
+                padding: 0.5rem 1rem;
+                border-radius: 5px;
+            }
+
+            .btn-pay {
+                background: #007bff;
+                color: white;
+                padding: 0.5rem 1rem;
+                border-radius: 5px;
+                border: none;
+            }
+        }
+
+        .btn-next {
+            background: #007bff;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            border: none;
+            margin-top: 1rem;
+        }
+    }
+
+    .confirmation {
+        text-align: center;
+
+        .order-summary {
+            text-align: left;
+            margin-top: 1rem;
+
+            hr {
+                margin: 0.5rem 0;
+            }
+
+            div {
+                margin-bottom: 0.5rem;
+            }
+        }
+
+        .btn-home {
+            margin-top: 1rem;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            background: #28a745;
+            color: white;
+            border: none;
+        }
+    }
+}

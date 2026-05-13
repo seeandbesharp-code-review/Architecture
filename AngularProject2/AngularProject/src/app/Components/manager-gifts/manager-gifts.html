@@ -1,0 +1,256 @@
+<div class="admin-dashboard">
+  <p-toast></p-toast>
+
+  <div class="main-content">
+
+    <div class="stats-cards grid">
+      <div class="card">
+        <h4>סה"כ מתנות</h4>
+        <span>{{ allGifts.length }}</span>
+      </div>
+
+      <div class="card">
+        <h4>סה"כ תורמים</h4>
+        <span>{{ allDonors.length }}</span>
+      </div>
+
+      <div class="card">
+        <h4>סה"כ מתנות שנרכשו</h4>
+        <span>{{ giftsWithBuyers.length }}</span>
+      </div>
+
+      <div class="card">
+        <h4>סה"כ כרטיסים שנקנו</h4>
+        <span>{{ totalTicketsSold }}</span>
+      </div>
+
+      <div class="card">
+        <h4>סה"כ הכנסות</h4>
+        <span>{{ totalRevenue | number:'1.0-0' }} ₪</span>
+      </div>
+    </div>
+
+
+    <div style="display: flex; justify-content: space-between;">
+      <div class="header-section">
+        <div class="controls">
+          <span class="search-box">
+            <i class="pi pi-search"></i>
+            <input placeholder="חפש לפי שם מתנה" pInputText [(ngModel)]="searchText"
+              (ngModelChange)="first=0; updatePage()" />
+          </span>
+          <span class="search-box">
+            <i class="pi pi-search"></i>
+            <input placeholder="חפש לפי שם תורם" pInputText [(ngModel)]="searchTextDonor"
+              (ngModelChange)="first=0; updatePage()" />
+          </span>
+
+          <p-dropdown [(ngModel)]="selectedSort" [options]="sortOptions" optionLabel="label"
+            (onChange)="first=0; updatePage()" placeholder="בחר סינון " [showClear]="true">
+          </p-dropdown>
+          <p-dropdown [options]="allCategories" optionLabel="name" [(ngModel)]="selectedCategory"
+            (onChange)="orderByCategory($event.value?.id)" placeholder="סנן לפי קטגוריה" [showClear]="true">
+          </p-dropdown>
+
+          <button *ngIf="isAdmin" class="add-gift-btn" (click)="openAddGiftDialog()">
+            <i class="pi pi-plus"></i> הוספת מוצר
+          </button>
+
+          <button *ngIf="isAdmin" class="add-gift-btn" (click)="openAddCategoryDialog()">
+            <i class="pi pi-plus"></i> הוספת קטגוריה
+          </button>
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Grid מתנות -->
+    <div class="gift-grid">
+      <div *ngFor="let gift of pagedGifts" class="gift-card">
+
+        <div class="image-wrapper">
+          <img (click)="details(gift.id)" [src]="'assets/images/gifts/' + gift.image" [alt]="gift.name">
+          <div class="category-badge">{{ gift.category }}</div>
+
+          <div class="admin-actions" *ngIf="isAdmin">
+            <button class="admin-edit-btn admin-action-btn"
+              (click)="openEditGiftDialog(gift); $event.stopPropagation()">
+              <i class="pi pi-pencil"></i>
+            </button>
+            <button class="admin-delete-btn admin-action-btn" (click)="deleteGift(gift.id); $event.stopPropagation()">
+              <i class="pi pi-trash"></i>
+            </button>
+
+            <button class="admin-buyers-btn admin-action-btn"
+              (click)="showBuyersDialog(gift.id); $event.stopPropagation()">
+              רוכשים
+            </button>
+          </div>
+        </div>
+
+        <div class="card-content">
+          <h3 style="direction: rtl;">{{ gift.name }}</h3>
+          <p style="direction: rtl;">תורם: {{ gift.donor }}</p>
+          <p style="direction: rtl;">זוכה: {{ gift.winnerName || 'לא הוגרלה' }}</p>
+          <div style="display: flex; justify-content: space-between;">
+
+            <div class="card-buttons">
+              <button style="height: 30px;" class="add-to-cart-btn"
+                (click)="raffleGift(gift.id); $event.stopPropagation()">
+                הגרל <i class="pi pi-shopping-cart"></i>
+              </button>
+            </div>
+            <span style="direction: rtl;" class="price">{{ gift.ticketPrice | currency:'ILS':'symbol':'1.0-0' }}</span>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Pagination -->
+    <div class="paginator-wrapper">
+      <p-paginator (onPageChange)="onPageChange($event)" [first]="first" [rows]="rows" [totalRecords]="allGifts.length"
+        [rowsPerPageOptions]="[6,12,24]"></p-paginator>
+    </div>
+
+  </div>
+  <p-dialog header="הוספת מתנה חדשה" [(visible)]="displayAddDialog" [modal]="true" [style]="{ width: '450px' }"
+    styleClass="gold-dialog">
+    <div class="form-container flex flex-column gap-3">
+      <div class="field">
+        <label>שם המתנה <span style="color:red">*</span></label>
+        <input required type="text" pInputText [(ngModel)]="newGift.Name" class="w-full" />
+      </div>
+      <div class="field">
+        <label>תיאור <span style="color:red">*</span></label>
+        <textarea required type="text" pInputText [(ngModel)]="newGift.Description" class="w-full"></textarea>
+      </div>
+      <div class="field">
+        <label>קטגוריה <span style="color:red">*</span></label>
+        <select required [(ngModel)]="newGift.CategoryId" class="w-full">
+          <option *ngFor="let category of categories$ | async" [value]="category.id">
+            {{ category.name }}
+          </option>
+        </select>
+      </div>
+
+
+      <div class="field">
+        <label>מחיר כרטיס <span style="color:red">*</span></label>
+        <input required type="number" pInputText [(ngModel)]="newGift.TicketPrice" class="w-full" />
+      </div>
+      <div class="field">
+        <label>תורם <span style="color:red">*</span></label>
+        <select required [(ngModel)]="newGift.DonorId" class="w-full">
+          <option *ngFor="let donor of donors$ | async" [value]="donor.id">
+            {{ donor.firstName }} {{ donor.lastName }}
+          </option>
+        </select>
+      </div>
+      <div class="field">
+        <label>תמונה <span style="color:red">*</span></label>
+        <p-fileUpload name="image" [auto]="true" (onSelect)="onUpload($event)" />
+      </div>
+      <small class="p-error" *ngIf="errorMessage">{{errorMessage}}</small>
+    </div>
+    <ng-template pTemplate="footer">
+      <button pButton label="ביטול" class="p-button-text" (click)="displayAddDialog = false"></button>
+      <button pButton label="שמירה" icon="pi pi-check" (click)="saveNewGift()"></button>
+    </ng-template>
+  </p-dialog>
+
+  <p-dialog header="עריכת מתנה" [(visible)]="displayEditDialog" [modal]="true" [style]="{ width: '450px' }"
+    styleClass="gold-dialog">
+
+    <div class="form-container flex flex-column gap-3">
+      <div class="field">
+        <label>שם המתנה <span style="color:red">*</span></label>
+        <input type="text" pInputText [(ngModel)]="selectedGiftForEdit.Name" class="w-full" />
+      </div>
+      <div class="field">
+        <label>תיאור <span style="color:red">*</span></label>
+        <textarea pInputTextarea [(ngModel)]="selectedGiftForEdit.Description" class="w-full"></textarea>
+      </div>
+      <div class="field">
+        <label>קטגוריה <span style="color:red">*</span></label>
+        <select required [(ngModel)]="selectedGiftForEdit.CategoryId" class="w-full">
+          <option *ngFor="let category of categories$ | async" [value]="category.id">
+            {{ category.name }}
+          </option>
+        </select>
+      </div>
+      <div class="field">
+        <label>מחיר כרטיס <span style="color:red">*</span></label>
+        <input type="number" pInputText [(ngModel)]="selectedGiftForEdit.TicketPrice" class="w-full" />
+      </div>
+      <div class="field">
+        <label>תורם <span style="color:red">*</span></label>
+        <select required [(ngModel)]="selectedGiftForEdit.DonorId" class="w-full">
+          <option *ngFor="let donor of donors$ | async" [value]="donor.id">
+            {{ donor.firstName }} {{ donor.lastName }}
+          </option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label>תמונה <span style="color:red">*</span></label>
+
+        <!-- הצגת התמונה הקיימת -->
+        <img *ngIf="selectedGiftForEdit.Image" [src]="'assets/images/gifts/' + selectedGiftForEdit.Image"
+          alt="תמונה קיימת" width="150" style="display:block; margin-bottom:10px;" />
+
+        <!-- FileUpload להחלפה  -->
+        <p-fileUpload name="image" [auto]="true" (onSelect)="onUpload($event, true)">
+        </p-fileUpload>
+      </div>
+
+      <small class="p-error" *ngIf="errorMessage">{{errorMessage}}</small>
+
+    </div>
+
+    <ng-template pTemplate="footer">
+      <button pButton label="ביטול" class="p-button-text" (click)="displayEditDialog = false"></button>
+      <button pButton label="עדכן שינויים" icon="pi pi-check" (click)="updateGift()"></button>
+    </ng-template>
+  </p-dialog>
+
+  <ng-template #loading>
+    <div class="loading-state" style="text-align: center; padding: 50px;">
+      <p-progressSpinner></p-progressSpinner>
+      <p>טוען את הגלריה היוקרתית...</p>
+    </div>
+  </ng-template>
+</div>
+
+<app-gift-buyers-detail-comp [giftId]="selectedGiftId" [giftName]="selectedGiftName"
+  [(displayDialog)]="displayBuyersDialog">
+</app-gift-buyers-detail-comp>
+
+
+<p-dialog header="הוספת קטגוריה חדשה" [(visible)]="displayAddCategoryDialog" [modal]="true" [style]="{ width: '450px' }"
+  styleClass="gold-dialog">
+
+  <div class="form-container flex flex-column gap-3">
+
+    <div class="field">
+      <label>שם הקטגוריה <span style="color:red">*</span></label>
+      <input type="text" pInputText [(ngModel)]="newCategory.name" class="w-full" />
+    </div>
+
+    <small class="p-error" *ngIf="errorMessage">
+      {{ errorMessage }}
+    </small>
+
+  </div>
+
+  <ng-template pTemplate="footer">
+    <button pButton label="ביטול" class="p-button-text" (click)="displayAddCategoryDialog = false">
+    </button>
+
+    <button pButton label="שמירה" icon="pi pi-check" (click)="saveNewCategory()">
+    </button>
+  </ng-template>
+
+</p-dialog>

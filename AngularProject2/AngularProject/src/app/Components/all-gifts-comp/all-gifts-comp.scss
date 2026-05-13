@@ -1,0 +1,677 @@
+// .gift-container {
+//   max-width: 1200px; // רוחב רחב יותר כדי שיהיה מקום ל-3 גדולים
+//   margin: 0 auto;
+//   padding: 40px 20px;
+//   direction: rtl;
+
+//   .header-section {
+//     display: flex;
+//     justify-content: space-between;
+//     align-items: center;
+//     margin-bottom: 50px;
+
+//     h2 { font-size: 2.5rem; color: #2c3e50; font-weight: 900; }
+
+//     .add-gift-btn {
+//       background: linear-gradient(135deg, #d4af37 0%, #b38728 100%);
+//       color: white;
+//       border: none;
+//       padding: 12px 25px;
+//       border-radius: 50px;
+//       font-weight: 800;
+//       cursor: pointer;
+//       box-shadow: 0 10px 20px rgba(212, 175, 55, 0.2);
+//       transition: 0.3s;
+//       &:hover { transform: scale(1.05); }
+//       i { margin-left: 8px; }
+//     }
+//   }
+
+//   .gift-grid {
+//     display: grid;
+//     // הגדרה של 3 עמודות שוות
+//     grid-template-columns: repeat(3, 1fr); 
+//     gap: 40px; // רווח גדול ויוקרתי בין המתנות
+//   }
+
+//   .gift-card {
+//     background: #ffffff;
+//     border-radius: 30px; // פינות מעוגלות מאוד
+//     overflow: hidden;
+//     box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+//     transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+//     cursor: pointer;
+//     border: 1px solid #f0f0f0;
+
+//     &:hover {
+//       transform: translateY(-10px);
+//       box-shadow: 0 20px 45px rgba(0,0,0,0.15);
+//       border-color: #d4af37;
+//     }
+
+//     .image-wrapper {
+//       position: relative;
+//       height: 300px; // תמונה גדולה יותר
+//       overflow: hidden;
+
+//       img {
+//         width: 100%;
+//         height: 100%;
+//         object-fit: cover;
+//         transition: transform 0.5s;
+//       }
+
+//       .category-badge {
+//         position: absolute;
+//         top: 20px;
+//         left: 20px;
+//         background: rgba(255, 255, 255, 0.9);
+//         color: #d4af37;
+//         padding: 5px 15px;
+//         border-radius: 50px;
+//         font-weight: 800;
+//         font-size: 0.8rem;
+//         box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+//       }
+//       // .admin-delete-badge {
+//       //   position: absolute;
+//       //   top: 20px;
+//       //   right: 20px;
+//       //   background: rgba(255, 255, 255, 0.9);
+//       //   color: #e74c3c;
+//       //   border: none;
+//       //   width: 40px;
+//       //   height: 40px;
+//       //   border-radius: 50%;
+//       //   display: flex;
+//       //   align-items: center;
+//       //   justify-content: center;
+//       //   cursor: pointer;
+//       //   z-index: 5;
+//       //   transition: 0.3s;
+//       //   &:hover { background: #e74c3c; color: white; transform: rotate(90deg); }
+//       // }
+// .admin-delete-btn {
+//   position: absolute;
+//   top: 15px;
+//   right: 15px;
+//   width: 42px;
+//   height: 42px;
+//   border-radius: 50%;
+//   background: linear-gradient(135deg, #d4af37 0%, #b38728 100%) !important;
+//   border: none;
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+//   cursor: pointer;
+//   box-shadow: 0 6px 18px rgba(212, 175, 55, 0.35);
+//   transition: 0.25s ease;
+//   z-index: 20;
+
+//   i {
+//         color: white !important;
+//     font-size: 1.3rem;
+
+//     font-size: 1.3rem;
+//     color: #fff !important;
+//   }
+
+//   &:hover {
+//     transform: scale(1.08) rotate(-5deg);
+//     filter: brightness(1.1);
+//     box-shadow: 0 10px 25px rgba(212, 175, 55, 0.45);
+//   }
+
+//   &:active {
+//     transform: scale(0.95);
+//   }
+// }
+
+//     }
+
+//     .card-content {
+//       padding: 25px;
+//       text-align: center;
+
+//       h3 {
+//         margin: 0;
+//         font-size: 1.6rem;
+//         color: #333;
+//         font-weight: 800;
+//       }
+
+//       .donor {
+//         color: #888;
+//         font-size: 0.9rem;
+//         margin: 8px 0 15px;
+//       }
+
+//       .price-section {
+//         background: #fff9e6; // רקע צהבהב עדין למחיר
+//         padding: 10px;
+//         border-radius: 15px;
+//         margin-bottom: 20px;
+
+//         .price-label { color: #b38728; font-weight: 600; }
+//         .amount {
+//           color: #d4af37;
+//           font-size: 1.8rem;
+//           font-weight: 900;
+//           display: block;
+//         }
+//       }
+
+//       .add-to-cart-btn {
+//         width: 100%;
+//         background: linear-gradient(135deg, #d4af37 0%, #b38728 100%);
+//         color: white;
+//         border: none;
+//         padding: 12px;
+//         border-radius: 15px;
+//         font-weight: 800;
+//         font-size: 1.1rem;
+//         display: flex;
+//         align-items: center;
+//         justify-content: center;
+//         gap: 12px;
+//         cursor: pointer;
+//         transition: 0.3s;
+
+//         &:hover {
+//           filter: brightness(1.1);
+//           box-shadow: 0 8px 20px rgba(212, 175, 55, 0.3);
+//         }
+//       }
+//     }
+//   }
+// }
+
+// // התאמה למסכים קטנים (שיהיה 1 או 2 בשורה במקום 3)
+// @media (max-width: 1024px) {
+//   .gift-grid { grid-template-columns: repeat(2, 1fr); }
+// }
+// @media (max-width: 650px) {
+//   .gift-grid { grid-template-columns: 1fr; }
+// }
+
+// ::ng-deep .gold-dialog {
+//   .p-dialog-header {
+//     background: #fdfbfb;
+//     color: #d4af37;
+//     border-bottom: 2px solid #f1f1f1;
+//     .p-dialog-title { font-weight: 800; }
+//   }
+
+//   .form-container {
+//     display: flex;
+//     flex-direction: column;
+//     gap: 15px;
+//     padding: 20px 0;
+//     .field {
+//       display: flex;
+//       flex-direction: column;
+//       label { font-weight: 700; margin-bottom: 5px; }
+//       input, textarea { border-radius: 8px; border: 1px solid #ddd; padding: 10px; }
+//     }
+//   }
+
+//   .p-dialog-footer .p-button {
+//     background: #d4af37;
+//     border: none;
+//     &:hover { background: #b38728; }
+//   }
+// }
+// .image-wrapper {
+//     position: relative; /* הכרחי כדי שהכפתור יוצמד אליו */
+// }
+
+// .admin-delete-btn {
+//     position: static;
+//     // top: 8px;
+//     // right: 8px;
+//     background: rgba(255, 0, 0, 0.8) !important;
+//     color: white !important;
+//     border: none;
+//     border-radius: 50%;
+//     width: 32px;
+//     height: 32px;
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+//     cursor: pointer;
+//     transition: transform 0.2s;
+//     z-index: 10;
+
+//     &:hover {
+//         transform: scale(1.1);
+//         background: red !important;
+//     }
+
+// }
+// :host ::ng-deep .p-dialog-footer .p-button.update-btn {
+//   background: linear-gradient(90deg, #d4af37, #f7d774) !important;
+//   border: none !important;
+//   padding: 10px 18px !important;
+//   border-radius: 10px !important;
+//   font-weight: 600 !important;
+//   font-size: 15px !important;
+//   color: #2a2a2a !important;
+//   box-shadow: 0 3px 8px rgba(0,0,0,0.15) !important;
+// }
+
+// :host ::ng-deep .p-dialog-footer .p-button.update-btn:hover {
+//   background: linear-gradient(90deg, #c49a2e, #f3cd58) !important;
+//   box-shadow: 0 0 12px rgba(215, 176, 53, 0.7) !important;
+//   transform: translateY(-1px);
+// }
+
+
+// .admin-edit-btn {
+//   position: static;
+//   top: 15px;
+//   // left: 15px; // שימי לב: left כדי שיהיה בצד השני של הפח
+//   width: 42px;
+//   height: 42px;
+//   border-radius: 50%;
+//   background: white !important; // רקע לבן כדי שהזהב יבלוט
+//   border: 2px solid #d4af37 !important; // מסגרת זהובה
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+//   cursor: pointer;
+//   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+//   transition: all 0.3s ease;
+//   z-index: 20;
+
+//   i {
+//     color: #d4af37 !important; // אייקון זהוב
+//     font-size: 1.2rem;
+//   }
+
+//   &:hover {
+//     background: #d4af37 !important;
+//     transform: scale(1.1);
+
+//     i {
+//       color: white !important; // הופך ללבן במעבר עכבר
+//     }
+//   }
+// }
+
+// .admin-actions {
+//   position: absolute;
+//   top: 15px;
+//   right: 15px;
+//   display: flex;
+//   gap: 20px;
+//   z-index: 20;
+// }
+.controls {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+
+.search-box {
+  position: relative;
+  width: 250px;
+}
+
+.search-box input {
+  width: 100%;
+  padding-left: 2rem;
+  border-radius: 8px;
+}
+
+.search-box i {
+  position: absolute;
+  left: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #999;
+}
+
+::ng-deep .p-dropdown {
+  min-width: 180px;
+}
+
+::ng-deep .p-dropdown,
+::ng-deep .p-inputtext {
+  border-radius: 8px !important;
+}
+
+.gift-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  direction: rtl;
+
+  // כותרת וכפתור הוספה
+  .header-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+
+    h2 {
+      font-size: 2.5rem;
+      color: #2c3e50;
+      font-weight: 900;
+    }
+
+.search-box {
+  position: relative;
+  width: 250px;
+}
+  }
+
+  // גריד הכרטיסים
+  .gift-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+  }
+
+  // כרטיס מתנה בודד
+  .gift-card {
+    background: #ffffff;
+    border-radius: 30px;
+    overflow: hidden;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    cursor: pointer;
+    border: 1px solid #f0f0f0;
+
+    &:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 20px 45px rgba(0, 0, 0, 0.15);
+      border-color: #d4af37;
+
+      .image-wrapper img {
+        transform: scale(1.05);
+      }
+    }
+
+    .image-wrapper {
+      position: relative;
+      height: 300px;
+      overflow: hidden;
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.5s;
+      }
+
+      .category-badge {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        background: rgba(255, 255, 255, 0.9);
+        color: #d4af37;
+        padding: 5px 15px;
+        border-radius: 50px;
+        font-weight: 800;
+        font-size: 0.8rem;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        z-index: 10;
+      }
+
+      // קונטיינר כפתורי ניהול (עריכה ומחיקה)
+      .admin-actions {
+        position: absolute;
+        top: 15px;
+        right: 15px;
+        display: flex;
+        gap: 12px; // רווח בין הכפתורים
+        z-index: 25;
+
+        .admin-edit-btn,
+        .admin-delete-btn {
+          width: 42px;
+          height: 42px;
+          border-radius: 50%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          cursor: pointer;
+          transition: all 0.3s ease;
+          border: none;
+          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .admin-edit-btn {
+          background: white !important;
+          border: 2px solid #d4af37 !important;
+
+          i {
+            color: #d4af37 !important;
+            font-size: 1.1rem;
+          }
+
+          &:hover {
+            background: #d4af37 !important;
+            transform: scale(1.1);
+
+            i {
+              color: white !important;
+            }
+          }
+        }
+
+        .admin-delete-btn {
+          background: linear-gradient(135deg, #d4af37 0%, #b38728 100%) !important;
+
+          i {
+            color: white !important;
+            font-size: 1.1rem;
+          }
+
+          &:hover {
+            transform: scale(1.1) rotate(-5deg);
+            filter: brightness(1.1);
+            box-shadow: 0 6px 18px rgba(212, 175, 55, 0.4);
+          }
+        }
+      }
+    }
+
+    .card-content {
+      padding: 25px;
+      text-align: center;
+
+      h3 {
+        margin: 0;
+        font-size: 1.6rem;
+        color: #333;
+        font-weight: 800;
+      }
+
+      .donor {
+        color: #888;
+        font-size: 0.9rem;
+        margin: 8px 0 15px;
+      }
+
+      .winner {
+        color: #888;
+        font-size: 0.9rem;
+        margin: 8px 0 15px;
+      }
+
+      .price-section {
+        background: #fff9e6;
+        padding: 10px;
+        border-radius: 15px;
+        margin-bottom: 20px;
+
+        .price-label {
+          color: #b38728;
+          font-weight: 600;
+        }
+
+        .amount {
+          color: #d4af37;
+          font-size: 1.8rem;
+          font-weight: 900;
+          display: block;
+        }
+      }
+
+      /* כיסוי מלא של המסך */
+      /* כיסוי מלא של המסך */
+      .overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        /* צבע כהה שקוף */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+        /* מוודא שה-overlay תמיד מעל תוכן אחר */
+        visibility: hidden;
+        /* לא רואים את זה בהתחלה */
+      }
+
+      /* סגנון העיגול */
+      .spinner {
+        border: 5px solid #f3f3f3;
+        /* צבע אפור בהיר */
+        border-top: 5px solid #3498db;
+        /* צבע כחול של החלק שמסתובב */
+        border-radius: 50%;
+        width: 50px;
+        /* גודל בינוני */
+        height: 50px;
+        animation: spin 2s linear infinite;
+      }
+
+      /* אנימציה של סיבוב */
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+
+      .add-to-cart-btn {
+        width: 100%;
+        background: linear-gradient(135deg, #d4af37 0%, #b38728 100%);
+        color: white;
+        border: none;
+        padding: 12px;
+        border-radius: 15px;
+        font-weight: 800;
+        font-size: 1.1rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
+        cursor: pointer;
+        transition: 0.3s;
+
+        &:hover {
+          filter: brightness(1.1);
+          box-shadow: 0 8px 20px rgba(212, 175, 55, 0.3);
+        }
+      }
+    }
+  }
+}
+
+// התאמה רספונסיבית
+@media (max-width: 1024px) {
+  .gift-container .gift-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 650px) {
+  .gift-container .gift-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+// עיצוב דיאלוגים (PrimeNG)
+::ng-deep .gold-dialog {
+  .p-dialog-header {
+    background: #fdfbfb;
+    color: #d4af37;
+    border-bottom: 2px solid #f1f1f1;
+
+    .p-dialog-title {
+      font-weight: 800;
+    }
+  }
+
+  .form-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px 0;
+
+    .field {
+      display: flex;
+      flex-direction: column;
+
+      label {
+        font-weight: 700;
+        margin-bottom: 5px;
+      }
+
+      input,
+      textarea {
+        border-radius: 8px;
+        border: 1px solid #ddd;
+        padding: 10px;
+      }
+    }
+  }
+
+  .p-dialog-footer {
+    .p-button {
+      background: #d4af37;
+      border: none;
+
+      &:hover {
+        background: #b38728;
+      }
+    }
+
+    // כפתור עדכון ספציפי אם קיים
+    .p-button.update-btn {
+      background: linear-gradient(90deg, #d4af37, #f7d774) !important;
+      color: #2a2a2a !important;
+      font-weight: 600 !important;
+
+      &:hover {
+        background: linear-gradient(90deg, #c49a2e, #f3cd58) !important;
+        transform: translateY(-1px);
+      }
+    }
+  }
+}
+
+/* תיקון מיקום ה-X בתוך dropdown ב-RTL */
+:host ::ng-deep .p-dropdown {
+  direction: rtl;
+}
+
+:host ::ng-deep .p-dropdown-clear-icon {
+  right: 7.9rem !important;
+  left: auto !important;
+}
+
+:host ::ng-deep .p-dropdown-label {
+  padding-right: 2.2rem !important;
+}

@@ -1,0 +1,1129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:2:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:2:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:1:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\data\\projectcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\data\\projectcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\data\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\data\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject.tests\\authcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|solutionrelative:apiproject.tests\\authcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\middleware\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\middleware\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\services\\implement\\lotteryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\services\\implement\\lotteryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\controllers\\lotterycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\controllers\\lotterycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\migrations\\20251216094619_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\migrations\\20251216094619_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\migrations\\20260108215223_initalcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\migrations\\20260108215223_initalcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject.tests\\donorcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|solutionrelative:apiproject.tests\\donorcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject.tests\\giftscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|solutionrelative:apiproject.tests\\giftscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject.tests\\donorsevicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|solutionrelative:apiproject.tests\\donorsevicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject.tests\\apiproject.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|solutionrelative:apiproject.tests\\apiproject.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject.tests\\categorycontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|solutionrelative:apiproject.tests\\categorycontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\services\\implement\\donorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\services\\implement\\donorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\controllers\\donorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\controllers\\donorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\services\\implement\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\services\\implement\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\services\\implement\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\services\\implement\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\services\\implement\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\services\\implement\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\controllers\\authcontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\controllers\\authcontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\services\\implement\\giftsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\services\\implement\\giftsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\controllers\\giftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\controllers\\giftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\models\\donormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\models\\donormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\models\\giftmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\models\\giftmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\models\\purchasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\models\\purchasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\models\\raffleresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\models\\raffleresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\apiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\apiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|solutionrelative:apiproject.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\repositories\\implement\\giftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\repositories\\implement\\giftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\repositories\\interface\\igiftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\repositories\\interface\\igiftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\services\\implement\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\services\\implement\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\dto\\giftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\dto\\giftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\repositories\\implement\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\repositories\\implement\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\repositories\\implement\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\repositories\\implement\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\repositories\\implement\\salesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\repositories\\implement\\salesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\repositories\\implement\\lotteryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\repositories\\implement\\lotteryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\dto\\salesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\dto\\salesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\belli\\Downloads\\SalesDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\repositories\\implement\\donorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\repositories\\implement\\donorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\dto\\donordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\dto\\donordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\services\\interface\\idonorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\services\\interface\\idonorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\repositories\\interface\\idonorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\repositories\\interface\\idonorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\services\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\services\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\services\\interface\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\services\\interface\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\dto\\raffledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\dto\\raffledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\logs\\log-20251231.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\logs\\log-20251231.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\logs\\log-20251230.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\logs\\log-20251230.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Api Project\\ApiProject\\ApiProject\\Services\\CartService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\repositories\\interface\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\repositories\\interface\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|c:\\users\\belli\\desktop\\project\\apiproject2\\apiproject\\repositories\\interface\\ilotteryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\repositories\\interface\\ilotteryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Api Project\\ApiProject\\ApiProject\\Services\\ICartService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Api Project\\ApiProject\\ApiProject\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Api Project\\ApiProject\\ApiProject\\Services\\EmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Api Project\\ApiProject\\ApiProject\\Services\\IEmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Api Project\\ApiProject\\ApiProject\\Services\\LotteryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Api Project\\ApiProject\\ApiProject\\Services\\ILotteryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Dockerfile",
+              "RelativeDocumentMoniker": "ApiProject\\Dockerfile",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Dockerfile",
+              "RelativeToolTip": "ApiProject\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-02T20:54:40.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Dockerfile",
+              "RelativeDocumentMoniker": "ApiProject\\Dockerfile",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Dockerfile",
+              "RelativeToolTip": "ApiProject\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-02T16:11:13.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DonorSeviceTest.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject.Tests\\DonorSeviceTest.cs",
+              "RelativeDocumentMoniker": "ApiProject.Tests\\DonorSeviceTest.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject.Tests\\DonorSeviceTest.cs",
+              "RelativeToolTip": "ApiProject.Tests\\DonorSeviceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T07:46:16.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\MiddleWare\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "ApiProject\\MiddleWare\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\MiddleWare\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "ApiProject\\MiddleWare\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:54:50.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\MiddleWare\\MiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "ApiProject\\MiddleWare\\MiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\MiddleWare\\MiddlewareExtensions.cs",
+              "RelativeToolTip": "ApiProject\\MiddleWare\\MiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:54:50.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject.Tests\\AuthControllerTest.cs",
+              "RelativeDocumentMoniker": "ApiProject.Tests\\AuthControllerTest.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject.Tests\\AuthControllerTest.cs",
+              "RelativeToolTip": "ApiProject.Tests\\AuthControllerTest.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAD4v2AAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T07:20:00.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Data\\ProjectContext.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Data\\ProjectContext.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Data\\ProjectContext.cs",
+              "RelativeToolTip": "ApiProject\\Data\\ProjectContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:23:47.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Data\\ProjectContextFactory.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Data\\ProjectContextFactory.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Data\\ProjectContextFactory.cs",
+              "RelativeToolTip": "ApiProject\\Data\\ProjectContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:23:49.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Program.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Program.cs",
+              "RelativeToolTip": "ApiProject\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:33:10.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LotteryService.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Implement\\LotteryService.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Services\\Implement\\LotteryService.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Implement\\LotteryService.cs",
+              "RelativeToolTip": "ApiProject\\Services\\Implement\\LotteryService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAMwEIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T18:45:46.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LotteryController.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Controllers\\LotteryController.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Controllers\\LotteryController.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Controllers\\LotteryController.cs",
+              "RelativeToolTip": "ApiProject\\Controllers\\LotteryController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:25:55.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\DTO\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "ApiProject\\DTO\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\DTO\\AuthorDto.cs",
+              "RelativeToolTip": "ApiProject\\DTO\\AuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:14:39.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\DTO\\CartDto.cs",
+              "RelativeDocumentMoniker": "ApiProject\\DTO\\CartDto.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\DTO\\CartDto.cs",
+              "RelativeToolTip": "ApiProject\\DTO\\CartDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:05:48.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DonorControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject.Tests\\DonorControllerTest.cs",
+              "RelativeDocumentMoniker": "ApiProject.Tests\\DonorControllerTest.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject.Tests\\DonorControllerTest.cs",
+              "RelativeToolTip": "ApiProject.Tests\\DonorControllerTest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T07:30:15.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\appsettings.json",
+              "RelativeToolTip": "ApiProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T19:02:49.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GiftsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject.Tests\\GiftsControllerTests.cs",
+              "RelativeDocumentMoniker": "ApiProject.Tests\\GiftsControllerTests.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject.Tests\\GiftsControllerTests.cs",
+              "RelativeToolTip": "ApiProject.Tests\\GiftsControllerTests.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:16:05.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DonorService.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Implement\\DonorService.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Services\\Implement\\DonorService.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Implement\\DonorService.cs",
+              "RelativeToolTip": "ApiProject\\Services\\Implement\\DonorService.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAowJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:40:50.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DonorsController.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Controllers\\DonorsController.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Controllers\\DonorsController.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Controllers\\DonorsController.cs",
+              "RelativeToolTip": "ApiProject\\Controllers\\DonorsController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T18:58:16.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260108215223_initalCreate3.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Migrations\\20260108215223_initalCreate3.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Migrations\\20260108215223_initalCreate3.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Migrations\\20260108215223_initalCreate3.cs",
+              "RelativeToolTip": "ApiProject\\Migrations\\20260108215223_initalCreate3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:57:02.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20251216094619_initalCreate.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Migrations\\20251216094619_initalCreate.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Migrations\\20251216094619_initalCreate.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Migrations\\20251216094619_initalCreate.cs",
+              "RelativeToolTip": "ApiProject\\Migrations\\20251216094619_initalCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:57:48.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Implement\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Services\\Implement\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Implement\\CategoryService.cs",
+              "RelativeToolTip": "ApiProject\\Services\\Implement\\CategoryService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAmwIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:22:25.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApiProject.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject.Tests\\ApiProject.Tests.csproj",
+              "RelativeDocumentMoniker": "ApiProject.Tests\\ApiProject.Tests.csproj",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject.Tests\\ApiProject.Tests.csproj",
+              "RelativeToolTip": "ApiProject.Tests\\ApiProject.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T13:15:27.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject.Tests\\CategoryControllerTest.cs",
+              "RelativeDocumentMoniker": "ApiProject.Tests\\CategoryControllerTest.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject.Tests\\CategoryControllerTest.cs",
+              "RelativeToolTip": "ApiProject.Tests\\CategoryControllerTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T07:26:47.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Implement\\CartService.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Services\\Implement\\CartService.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Implement\\CartService.cs",
+              "RelativeToolTip": "ApiProject\\Services\\Implement\\CartService.cs",
+              "ViewState": "AgIAAPgBAAAAAAAAAAAqwBUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:37:14.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ApiProject\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAmwLQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:57:00.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ApiProject\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T19:05:45.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Implement\\AuthService.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Services\\Implement\\AuthService.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Implement\\AuthService.cs",
+              "RelativeToolTip": "ApiProject\\Services\\Implement\\AuthService.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAcwIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T22:07:03.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthControlller.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Controllers\\AuthControlller.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Controllers\\AuthControlller.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Controllers\\AuthControlller.cs",
+              "RelativeToolTip": "ApiProject\\Controllers\\AuthControlller.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:15:27.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GiftsService.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Implement\\GiftsService.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Services\\Implement\\GiftsService.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Implement\\GiftsService.cs",
+              "RelativeToolTip": "ApiProject\\Services\\Implement\\GiftsService.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAcwCIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:16:52.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GiftsController.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Controllers\\GiftsController.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Controllers\\GiftsController.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Controllers\\GiftsController.cs",
+              "RelativeToolTip": "ApiProject\\Controllers\\GiftsController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAUwHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T19:49:34.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CartItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\CartItemModel.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Models\\CartItemModel.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\CartItemModel.cs",
+              "RelativeToolTip": "ApiProject\\Models\\CartItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T21:23:12.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Models\\CartModel.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\CartModel.cs",
+              "RelativeToolTip": "ApiProject\\Models\\CartModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T19:05:51.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Models\\CategoryModel.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "ApiProject\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T01:54:02.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PurchaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\PurchaseModel.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Models\\PurchaseModel.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\PurchaseModel.cs",
+              "RelativeToolTip": "ApiProject\\Models\\PurchaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T01:53:44.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RaffleResultModel.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\RaffleResultModel.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Models\\RaffleResultModel.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\RaffleResultModel.cs",
+              "RelativeToolTip": "ApiProject\\Models\\RaffleResultModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:08:42.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\UserModel.cs",
+              "RelativeToolTip": "ApiProject\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T01:53:21.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ApiProject.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ApiProject.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:40:36.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GiftModel.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\GiftModel.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Models\\GiftModel.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\GiftModel.cs",
+              "RelativeToolTip": "ApiProject\\Models\\GiftModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:29:25.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DonorModel.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\DonorModel.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Models\\DonorModel.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Models\\DonorModel.cs",
+              "RelativeToolTip": "ApiProject\\Models\\DonorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:14:13.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GiftRepository.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Implement\\GiftRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Repositories\\Implement\\GiftRepository.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Implement\\GiftRepository.cs",
+              "RelativeToolTip": "ApiProject\\Repositories\\Implement\\GiftRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:16:33.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IGiftRepository.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Interface\\IGiftRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Repositories\\Interface\\IGiftRepository.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Interface\\IGiftRepository.cs",
+              "RelativeToolTip": "ApiProject\\Repositories\\Interface\\IGiftRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:20:12.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ApiProject.csproj",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\ApiProject.csproj",
+              "RelativeDocumentMoniker": "ApiProject\\ApiProject.csproj",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\ApiProject.csproj",
+              "RelativeToolTip": "ApiProject\\ApiProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T19:24:17.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SalesService.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Implement\\SalesService.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Services\\Implement\\SalesService.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Implement\\SalesService.cs",
+              "RelativeToolTip": "ApiProject\\Services\\Implement\\SalesService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T20:27:26.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GiftDto.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\DTO\\GiftDto.cs",
+              "RelativeDocumentMoniker": "ApiProject\\DTO\\GiftDto.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\DTO\\GiftDto.cs",
+              "RelativeToolTip": "ApiProject\\DTO\\GiftDto.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:25:21.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Implement\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Repositories\\Implement\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Implement\\AuthRepository.cs",
+              "RelativeToolTip": "ApiProject\\Repositories\\Implement\\AuthRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:38:19.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Implement\\CartRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Repositories\\Implement\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Implement\\CartRepository.cs",
+              "RelativeToolTip": "ApiProject\\Repositories\\Implement\\CartRepository.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAswH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:55:54.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "ApiProject\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T20:15:44.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LotteryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Implement\\LotteryRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Repositories\\Implement\\LotteryRepository.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Implement\\LotteryRepository.cs",
+              "RelativeToolTip": "ApiProject\\Repositories\\Implement\\LotteryRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCYAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:12:00.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\DTO\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "ApiProject\\DTO\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\DTO\\CategoryDto.cs",
+              "RelativeToolTip": "ApiProject\\DTO\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:23:40.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SalesDto.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\DTO\\SalesDto.cs",
+              "RelativeDocumentMoniker": "ApiProject\\DTO\\SalesDto.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\DTO\\SalesDto.cs",
+              "RelativeToolTip": "ApiProject\\DTO\\SalesDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAzwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T20:37:25.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SalesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Implement\\SalesRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Repositories\\Implement\\SalesRepository.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Implement\\SalesRepository.cs",
+              "RelativeToolTip": "ApiProject\\Repositories\\Implement\\SalesRepository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:00:50.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DonorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Implement\\DonorRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Repositories\\Implement\\DonorRepository.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Implement\\DonorRepository.cs",
+              "RelativeToolTip": "ApiProject\\Repositories\\Implement\\DonorRepository.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAuwIsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:14:17.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SalesDto.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Downloads\\SalesDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\SalesDto.cs",
+              "ToolTip": "C:\\Users\\belli\\Downloads\\SalesDto.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\SalesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T20:12:31.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DonorDto.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\DTO\\DonorDto.cs",
+              "RelativeDocumentMoniker": "ApiProject\\DTO\\DonorDto.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\DTO\\DonorDto.cs",
+              "RelativeToolTip": "ApiProject\\DTO\\DonorDto.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:24:18.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IDonorService.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Interface\\IDonorService.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Services\\Interface\\IDonorService.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Interface\\IDonorService.cs",
+              "RelativeToolTip": "ApiProject\\Services\\Interface\\IDonorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:30:17.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IDonorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Interface\\IDonorRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Repositories\\Interface\\IDonorRepository.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Interface\\IDonorRepository.cs",
+              "RelativeToolTip": "ApiProject\\Repositories\\Interface\\IDonorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:35:33.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Interface\\ICartService.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Services\\Interface\\ICartService.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Interface\\ICartService.cs",
+              "RelativeToolTip": "ApiProject\\Services\\Interface\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:32:39.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Interface\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Services\\Interface\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Services\\Interface\\ICategoryService.cs",
+              "RelativeToolTip": "ApiProject\\Services\\Interface\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:54:24.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RaffleDto.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\DTO\\RaffleDto.cs",
+              "RelativeDocumentMoniker": "ApiProject\\DTO\\RaffleDto.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\DTO\\RaffleDto.cs",
+              "RelativeToolTip": "ApiProject\\DTO\\RaffleDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:00:27.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "log-20251231.txt",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Logs\\log-20251231.txt",
+              "RelativeDocumentMoniker": "ApiProject\\Logs\\log-20251231.txt",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Logs\\log-20251231.txt",
+              "RelativeToolTip": "ApiProject\\Logs\\log-20251231.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-05T12:55:01.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "log-20251230.txt",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Logs\\log-20251230.txt",
+              "RelativeDocumentMoniker": "ApiProject\\Logs\\log-20251230.txt",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Logs\\log-20251230.txt",
+              "RelativeToolTip": "ApiProject\\Logs\\log-20251230.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-05T12:54:59.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\MiddleWare\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "ApiProject\\MiddleWare\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\MiddleWare\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "ApiProject\\MiddleWare\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:54:51.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Interface\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Repositories\\Interface\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Interface\\ICartRepository.cs",
+              "RelativeToolTip": "ApiProject\\Repositories\\Interface\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:55:49.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "E:\\Api Project\\ApiProject\\ApiProject\\Services\\CartService.cs",
+              "ToolTip": "E:\\Api Project\\ApiProject\\ApiProject\\Services\\CartService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:55:35.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "E:\\Api Project\\ApiProject\\ApiProject\\Services\\ICartService.cs",
+              "ToolTip": "E:\\Api Project\\ApiProject\\ApiProject\\Services\\ICartService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:54:48.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Api Project\\ApiProject\\ApiProject\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Api Project\\ApiProject\\ApiProject\\Controllers\\UserController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:40:03.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "E:\\Api Project\\ApiProject\\ApiProject\\Services\\EmailService.cs",
+              "ToolTip": "E:\\Api Project\\ApiProject\\ApiProject\\Services\\EmailService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:57:45.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "E:\\Api Project\\ApiProject\\ApiProject\\Services\\IEmailService.cs",
+              "ToolTip": "E:\\Api Project\\ApiProject\\ApiProject\\Services\\IEmailService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:57:28.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "LotteryService.cs",
+              "DocumentMoniker": "E:\\Api Project\\ApiProject\\ApiProject\\Services\\LotteryService.cs",
+              "ToolTip": "E:\\Api Project\\ApiProject\\ApiProject\\Services\\LotteryService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:54:02.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ILotteryService.cs",
+              "DocumentMoniker": "E:\\Api Project\\ApiProject\\ApiProject\\Services\\ILotteryService.cs",
+              "ToolTip": "E:\\Api Project\\ApiProject\\ApiProject\\Services\\ILotteryService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:47:29.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ILotteryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Interface\\ILotteryRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Repositories\\Interface\\ILotteryRepository.cs",
+              "ToolTip": "C:\\Users\\belli\\Desktop\\Project\\ApiProject2\\ApiProject\\Repositories\\Interface\\ILotteryRepository.cs",
+              "RelativeToolTip": "ApiProject\\Repositories\\Interface\\ILotteryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:58:52.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

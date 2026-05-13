@@ -1,0 +1,253 @@
+.auth-container {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+
+  .action-buttons {
+    display: flex;
+    gap: 1rem;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 1rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.register-dialog .p-dialog-header {
+  text-align: center;
+  font-weight: 600;
+}
+
+.form-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.name-row {
+  display: flex;
+  gap: 1rem;
+}
+
+.error-container {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #f44336;
+  font-size: 0.9rem;
+}
+
+.register-dialog .p-dialog-header {
+  text-align: center;
+  font-weight: 600;
+}
+
+.form-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.name-row {
+  display: flex;
+  gap: 1rem;
+}
+
+.buttons-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.error-container {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #f44336;
+  font-size: 0.9rem;
+}
+
+.image-wrapper {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+  /* מסגרת זהב */
+  border: 2px solid #c09433;
+  border-radius: 15px;
+  
+  /* אפקט ה-Gradient המוזהב */
+  background: linear-gradient(to top, #c09433 0%, #f4e4bc 50%, #ffffff 100%);
+  
+  padding: 20px;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+  img {
+    width: 100%;
+    height: auto;
+    /* הוספת צל קל לאייקון כדי שיבלוט על הרקע המוזהב */
+    filter: drop-shadow(0 5px 5px rgba(0,0,0,0.1));
+    transition: transform 0.5s ease;
+  }
+
+  &:hover {
+    transform: scale(1.05); /* הגדלה קלה */
+    box-shadow: 0 15px 30px rgba(192, 148, 51, 0.4); /* צל מוזהב חזק יותר */
+    border-color: #d4af37;
+    
+    img {
+      transform: rotate(2deg); /* אפקט תנועה קטן לאייקון */
+    }
+  }
+
+  .aaaa {
+    position: absolute;
+    bottom: 15px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 85%; /* קיצרתי מעט כדי שלא ייגע בקצוות המסגרת */
+    height: 60px;
+    
+    /* פס לבן כמעט אטום */
+    background: rgba(255, 255, 255, 0.92);
+    border-radius: 8px;
+    
+    /* טקסט בטורקיז מהאייקון */
+    color: #26C6DA; 
+    font-weight: 800;
+    font-size: 2.8rem;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  }
+}
+
+
+
+
+
+
+.p-password-meter .p-password-meter-fill {
+  background-color: #ff4d4f;
+}
+
+.p-password.p-password-strength .p-password-meter-fill[data-strength="50"] {
+  background-color: #faad14;
+}
+
+.p-password.p-password-strength .p-password-meter-fill[data-strength="100"] {
+  background-color: #52c41a;
+}
+
+.form-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.8rem;
+  padding: 1.5rem 0.5rem 0.5rem 0.5rem; 
+}
+
+.name-row {
+  display: flex;
+  gap: 1rem;
+
+  @media (max-width: 450px) {
+    flex-direction: column;
+    gap: 1.8rem;
+  }
+}
+
+.w-full {
+  width: 100%;
+}
+
+// עיצוב כותרת הדיאלוג והתאמה ל-PrimeNG 18
+:host ::ng-deep {
+  .p-dialog-content {
+    overflow-y: visible; // מבטיח שה-FloatLabel לא ייחתך
+  }
+
+  .p-dialog-header {
+    font-weight: 700;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 1rem;
+  }
+
+  // עיצוב ה-input שיהיה תואם ל-Theme
+  .p-inputtext {
+    font-family: inherit;
+  }
+}
+
+.error-container {
+  background-color: #fff5f5;
+  color: #e53e3e;
+  padding: 0.75rem;
+  border-radius: 8px;
+  border: 1px solid #feb2b2;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin-top: -0.5rem; // מצמיד מעט לשדה שמעליו
+
+  i {
+    font-size: 1.1rem;
+  }
+}
+
+// אנימציה קטנה להופעת השגיאה
+.error-container {
+  animation: shake 0.4s ease-in-out;
+}
+
+@keyframes shake {
+
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+
+  25% {
+    transform: translateX(-5px);
+  }
+
+  75% {
+    transform: translateX(5px);
+  }
+}
+
+
+:host ::ng-deep {
+  /* גורם לקומפוננטת הסיסמה לתפוס את כל הרוחב */
+  .p-password {
+    width: 100%;
+    display: flex;
+  }
+
+  /* גורם לשדה הטקסט עצמו לתפוס 100% והופך את האייקון ל-Absolute בתוכו */
+  .p-password input {
+    width: 100%;
+    padding-right: 2.5rem; /* מפנה מקום לאייקון מצד ימין */
+  }
+
+  /* מיקום האייקון בתוך התיבה */
+  .p-password-icon {
+    position: absolute;
+    top: 50%;
+    right: 0.75rem;
+    transform: translateY(-50%);
+    cursor: pointer;
+    z-index: 10;
+    color: #6c757d;
+  }
+}

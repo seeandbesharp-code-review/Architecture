@@ -1,0 +1,40 @@
+2026-03-02 20:56:03.592 +00:00 [INF] Starting Gifts API
+2026-03-02 20:56:04.519 +00:00 [INF] Gifts API is now running
+2026-03-02 20:56:04.577 +00:00 [WRN] Using an in-memory repository. Keys will not be persisted to storage.
+2026-03-02 20:56:04.580 +00:00 [WRN] Neither user profile nor HKLM registry available. Using an ephemeral key repository. Protected data will be unavailable when application exits.
+2026-03-02 20:56:04.595 +00:00 [INF] Creating key {62c801b0-7366-4610-8faf-5e5c29ed72f4} with creation date 2026-03-02 20:56:04Z, activation date 2026-03-02 20:56:04Z, and expiration date 2026-05-31 20:56:04Z.
+2026-03-02 20:56:04.651 +00:00 [WRN] No XML encryptor configured. Key {62c801b0-7366-4610-8faf-5e5c29ed72f4} may be persisted to storage in unencrypted form.
+2026-03-02 20:56:05.254 +00:00 [INF] Now listening on: http://[::]:8080
+2026-03-02 20:56:05.256 +00:00 [INF] Now listening on: https://[::]:8081
+2026-03-02 20:56:05.259 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-03-02 20:56:05.260 +00:00 [INF] Hosting environment: Development
+2026-03-02 20:56:05.261 +00:00 [INF] Content root path: /app
+2026-03-02 20:56:06.422 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32769/swagger - null null
+2026-03-02 20:56:06.459 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32769/swagger - 301 0 null 38.8371ms
+2026-03-02 20:56:06.482 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32769/swagger/index.html - null null
+2026-03-02 20:56:06.568 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32769/swagger/swagger-ui-bundle.js - null null
+2026-03-02 20:56:06.568 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32769/swagger/swagger-ui.css - null null
+2026-03-02 20:56:06.618 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32769/swagger/swagger-ui-standalone-preset.js - null null
+2026-03-02 20:56:06.698 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32769/swagger/index.html - 200 null text/html;charset=utf-8 205.8966ms
+2026-03-02 20:56:06.781 +00:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-03-02 20:56:06.808 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32769/swagger/swagger-ui.css - 200 152034 text/css 238.3505ms
+2026-03-02 20:56:06.812 +00:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-03-02 20:56:06.814 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32769/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 195.8195ms
+2026-03-02 20:56:06.935 +00:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-03-02 20:56:06.936 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32769/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 367.717ms
+2026-03-02 20:56:07.083 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32769/swagger/v1/swagger.json - null null
+2026-03-02 20:56:07.124 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32769/swagger/favicon-32x32.png - null null
+2026-03-02 20:56:07.126 +00:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-03-02 20:56:07.126 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32769/swagger/favicon-32x32.png - 200 628 image/png 2.2616ms
+2026-03-02 20:56:07.252 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32769/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 168.635ms
+2026-03-02 21:15:57.568 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:32768/ - null null
+2026-03-02 21:15:57.614 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:32768/ - 307 0 null 46.6821ms
+2026-03-02 21:15:58.001 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32769/ - null null
+2026-03-02 21:15:58.090 +00:00 [INF] Incoming Request: GET /
+2026-03-02 21:15:58.252 +00:00 [INF] Completed GET / responded 404 in 165ms
+2026-03-02 21:15:58.253 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32769/ - 404 0 null 251.8289ms
+2026-03-02 21:15:58.254 +00:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:32769/, Response status code: 404
+2026-03-02 21:16:05.227 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32769/swagger/index.html - null null
+2026-03-02 21:16:05.232 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32769/swagger/index.html - 200 null text/html;charset=utf-8 5.2904ms
+2026-03-02 21:16:05.545 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32769/swagger/v1/swagger.json - null null
+2026-03-02 21:16:05.569 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32769/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 24.0141ms

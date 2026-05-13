@@ -1,0 +1,841 @@
+2026-02-03 17:37:46.798 +02:00 [INF] Starting Gifts API
+2026-02-03 17:39:27.549 +02:00 [INF] Gifts API is now running
+2026-02-03 17:39:27.687 +02:00 [INF] User profile is available. Using 'C:\Users\belli\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-03 17:39:28.672 +02:00 [INF] Now listening on: http://localhost:5132
+2026-02-03 17:39:30.782 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/swagger/index.html - null null
+2026-02-03 17:39:31.251 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-03 17:39:31.253 +02:00 [INF] Hosting environment: Development
+2026-02-03 17:39:31.256 +02:00 [INF] Content root path: E:\Api Project\ApiProject2\ApiProject
+2026-02-03 17:39:32.848 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/swagger/index.html - 200 null text/html;charset=utf-8 2949.3616ms
+2026-02-03 17:39:32.875 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/_vs/browserLink - null null
+2026-02-03 17:39:32.892 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-03 17:39:32.905 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 13.6064ms
+2026-02-03 17:39:33.195 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/_vs/browserLink - 200 null text/javascript; charset=UTF-8 322.7989ms
+2026-02-03 17:39:33.615 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/swagger/v1/swagger.json - null null
+2026-02-03 17:39:33.662 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 46.6883ms
+2026-02-03 17:46:08.618 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/cart/unpaid/15 - null null
+2026-02-03 17:46:08.641 +02:00 [WRN] Failed to determine the https port for redirect.
+2026-02-03 17:46:08.647 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:08.814 +02:00 [INF] Incoming Request: GET /api/cart/unpaid/15
+2026-02-03 17:46:10.290 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:46:10.297 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Category - null null
+2026-02-03 17:46:10.336 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:10.347 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:10.372 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:46:10.374 +02:00 [INF] Incoming Request: GET /api/Category
+2026-02-03 17:46:12.080 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CartController.GetUnpaidCartByUserId (ApiProject)'
+2026-02-03 17:46:12.080 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:12.080 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:46:12.138 +02:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ApiProject.Controllers.CategoryController (ApiProject).
+2026-02-03 17:46:12.138 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:46:12.138 +02:00 [INF] Route matched with {action = "GetUnpaidCartByUserId", controller = "Cart"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[ApiProject.DTO.CartDto+CartModelDto]] GetUnpaidCartByUserId(Int32) on controller ApiProject.Controllers.CartController (ApiProject).
+2026-02-03 17:46:14.426 +02:00 [INF] Fetching all gifts
+2026-02-03 17:46:14.425 +02:00 [INF] Fetching all categories
+2026-02-03 17:46:14.828 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:46:14.829 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Category - null null
+2026-02-03 17:46:14.844 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:14.849 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:14.851 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:46:14.853 +02:00 [INF] Incoming Request: GET /api/Category
+2026-02-03 17:46:14.860 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:14.861 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:46:14.864 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:46:14.868 +02:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ApiProject.Controllers.CategoryController (ApiProject).
+2026-02-03 17:46:14.876 +02:00 [INF] Fetching all gifts
+2026-02-03 17:46:14.883 +02:00 [INF] Fetching all categories
+2026-02-03 17:46:17.574 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/cart/unpaid/15 - null null
+2026-02-03 17:46:17.594 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:17.595 +02:00 [INF] Incoming Request: GET /api/cart/unpaid/15
+2026-02-03 17:46:17.599 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CartController.GetUnpaidCartByUserId (ApiProject)'
+2026-02-03 17:46:17.601 +02:00 [INF] Route matched with {action = "GetUnpaidCartByUserId", controller = "Cart"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[ApiProject.DTO.CartDto+CartModelDto]] GetUnpaidCartByUserId(Int32) on controller ApiProject.Controllers.CartController (ApiProject).
+2026-02-03 17:46:21.173 +02:00 [INF] Executed DbCommand (156ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:46:21.173 +02:00 [INF] Executed DbCommand (167ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [categories] AS [c]
+2026-02-03 17:46:21.175 +02:00 [INF] Executed DbCommand (151ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [categories] AS [c]
+2026-02-03 17:46:21.175 +02:00 [INF] Executed DbCommand (169ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:46:21.267 +02:00 [INF] Executed DbCommand (243ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [c1].[Id], [c1].[MyStatus], [c1].[UserModelId], [s].[Id], [s].[CartId], [s].[GiftModelId], [s].[Quantity], [s].[Id0], [s].[CategoryModelId], [s].[Description], [s].[DonorModelId], [s].[Image], [s].[Name], [s].[TicketPrice], [s].[UserModelId], [s].[isRaffleDone]
+FROM (
+    SELECT TOP(1) [c].[Id], [c].[MyStatus], [c].[UserModelId]
+    FROM [carts] AS [c]
+    WHERE [c].[UserModelId] = @__userId_0 AND [c].[MyStatus] = 0
+) AS [c1]
+LEFT JOIN (
+    SELECT [c0].[Id], [c0].[CartId], [c0].[GiftModelId], [c0].[Quantity], [g].[Id] AS [Id0], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone]
+    FROM [cartItems] AS [c0]
+    INNER JOIN [gifts] AS [g] ON [c0].[GiftModelId] = [g].[Id]
+) AS [s] ON [c1].[Id] = [s].[CartId]
+ORDER BY [c1].[Id], [s].[Id]
+2026-02-03 17:46:21.267 +02:00 [INF] Executed DbCommand (241ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [c1].[Id], [c1].[MyStatus], [c1].[UserModelId], [s].[Id], [s].[CartId], [s].[GiftModelId], [s].[Quantity], [s].[Id0], [s].[CategoryModelId], [s].[Description], [s].[DonorModelId], [s].[Image], [s].[Name], [s].[TicketPrice], [s].[UserModelId], [s].[isRaffleDone]
+FROM (
+    SELECT TOP(1) [c].[Id], [c].[MyStatus], [c].[UserModelId]
+    FROM [carts] AS [c]
+    WHERE [c].[UserModelId] = @__userId_0 AND [c].[MyStatus] = 0
+) AS [c1]
+LEFT JOIN (
+    SELECT [c0].[Id], [c0].[CartId], [c0].[GiftModelId], [c0].[Quantity], [g].[Id] AS [Id0], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone]
+    FROM [cartItems] AS [c0]
+    INNER JOIN [gifts] AS [g] ON [c0].[GiftModelId] = [g].[Id]
+) AS [s] ON [c1].[Id] = [s].[CartId]
+ORDER BY [c1].[Id], [s].[Id]
+2026-02-03 17:46:21.411 +02:00 [INF] Executing OkObjectResult, writing value of type 'ApiProject.DTO.CartDto+CartModelDto'.
+2026-02-03 17:46:21.411 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.CategoryModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.CategoryModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:21.411 +02:00 [INF] Executing OkObjectResult, writing value of type 'ApiProject.DTO.CartDto+CartModelDto'.
+2026-02-03 17:46:21.412 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.CategoryModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.CategoryModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:21.455 +02:00 [INF] Executed action ApiProject.Controllers.CategoryController.GetAll (ApiProject) in 6567.7144ms
+2026-02-03 17:46:21.455 +02:00 [INF] Executed action ApiProject.Controllers.CartController.GetUnpaidCartByUserId (ApiProject) in 3844.8709ms
+2026-02-03 17:46:21.468 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:46:21.452 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Category - null null
+2026-02-03 17:46:21.471 +02:00 [INF] Executed action ApiProject.Controllers.CartController.GetUnpaidCartByUserId (ApiProject) in 9318.0332ms
+2026-02-03 17:46:21.471 +02:00 [INF] Executed action ApiProject.Controllers.CategoryController.GetAll (ApiProject) in 9323.9294ms
+2026-02-03 17:46:21.472 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CartController.GetUnpaidCartByUserId (ApiProject)'
+2026-02-03 17:46:21.476 +02:00 [INF] Completed GET /api/Category responded 200 in 6622ms
+2026-02-03 17:46:21.486 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:21.488 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:21.493 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:46:21.510 +02:00 [INF] Completed GET /api/Category responded 200 in 11135ms
+2026-02-03 17:46:21.494 +02:00 [INF] Completed GET /api/cart/unpaid/15 responded 200 in 3898ms
+2026-02-03 17:46:21.490 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CartController.GetUnpaidCartByUserId (ApiProject)'
+2026-02-03 17:46:21.489 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:21.499 +02:00 [INF] Incoming Request: GET /api/Category
+2026-02-03 17:46:21.519 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Category - 499 null application/json; charset=utf-8 11220.6457ms
+2026-02-03 17:46:21.518 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Category - 200 null application/json; charset=utf-8 6689.5701ms
+2026-02-03 17:46:21.516 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 9365.5628ms
+2026-02-03 17:46:21.518 +02:00 [INF] Completed GET /api/cart/unpaid/15 responded 200 in 12707ms
+2026-02-03 17:46:21.519 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/cart/unpaid/15 - 200 null application/json; charset=utf-8 3943.859ms
+2026-02-03 17:46:21.521 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 6647.9861ms
+2026-02-03 17:46:21.523 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:46:21.555 +02:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ApiProject.Controllers.CategoryController (ApiProject).
+2026-02-03 17:46:21.544 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/cart/unpaid/15 - 499 null application/json; charset=utf-8 12926.0361ms
+2026-02-03 17:46:21.550 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:46:21.553 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.542 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.562 +02:00 [INF] Fetching all categories
+2026-02-03 17:46:21.575 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:21.577 +02:00 [INF] Completed GET /api/Gifts responded 200 in 6725ms
+2026-02-03 17:46:21.579 +02:00 [INF] Completed GET /api/Gifts responded 200 in 11205ms
+2026-02-03 17:46:21.583 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:46:21.590 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 6761.6181ms
+2026-02-03 17:46:21.590 +02:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [categories] AS [c]
+2026-02-03 17:46:21.592 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 499 null application/json; charset=utf-8 11301.4893ms
+2026-02-03 17:46:21.593 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.603 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.CategoryModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.CategoryModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:21.608 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:46:21.610 +02:00 [INF] Executed action ApiProject.Controllers.CategoryController.GetAll (ApiProject) in 52.0588ms
+2026-02-03 17:46:21.612 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Category - null null
+2026-02-03 17:46:21.614 +02:00 [INF] Fetching all gifts
+2026-02-03 17:46:21.614 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:46:21.619 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:21.626 +02:00 [INF] Completed GET /api/Category responded 200 in 127ms
+2026-02-03 17:46:21.626 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:46:21.627 +02:00 [INF] Incoming Request: GET /api/Category
+2026-02-03 17:46:21.634 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:46:21.631 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Category - 200 null application/json; charset=utf-8 179.5615ms
+2026-02-03 17:46:21.635 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:21.636 +02:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ApiProject.Controllers.CategoryController (ApiProject).
+2026-02-03 17:46:21.642 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 30.3105ms
+2026-02-03 17:46:21.645 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:46:21.645 +02:00 [INF] Fetching all categories
+2026-02-03 17:46:21.646 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.650 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:21.653 +02:00 [INF] Completed GET /api/Gifts responded 200 in 70ms
+2026-02-03 17:46:21.657 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [categories] AS [c]
+2026-02-03 17:46:21.657 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:46:21.659 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 109.0542ms
+2026-02-03 17:46:21.662 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.CategoryModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.CategoryModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:21.663 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.669 +02:00 [INF] Executed action ApiProject.Controllers.CategoryController.GetAll (ApiProject) in 24.0651ms
+2026-02-03 17:46:21.670 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:46:21.672 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Category - null null
+2026-02-03 17:46:21.672 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:46:21.675 +02:00 [INF] Fetching all gifts
+2026-02-03 17:46:21.679 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:21.680 +02:00 [INF] Completed GET /api/Category responded 200 in 53ms
+2026-02-03 17:46:21.683 +02:00 [INF] Incoming Request: GET /api/Category
+2026-02-03 17:46:21.687 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:46:21.689 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Category - 200 null application/json; charset=utf-8 77.7875ms
+2026-02-03 17:46:21.690 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:46:21.695 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:21.699 +02:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ApiProject.Controllers.CategoryController (ApiProject).
+2026-02-03 17:46:21.701 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 26.9516ms
+2026-02-03 17:46:21.703 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:46:21.704 +02:00 [INF] Fetching all categories
+2026-02-03 17:46:21.706 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.710 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:21.713 +02:00 [INF] Completed GET /api/Gifts responded 200 in 56ms
+2026-02-03 17:46:21.715 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [categories] AS [c]
+2026-02-03 17:46:21.716 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:46:21.719 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 74.4541ms
+2026-02-03 17:46:21.723 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.CategoryModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.CategoryModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:21.724 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.730 +02:00 [INF] Executed action ApiProject.Controllers.CategoryController.GetAll (ApiProject) in 26.0057ms
+2026-02-03 17:46:21.731 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:46:21.732 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Category - null null
+2026-02-03 17:46:21.740 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:21.736 +02:00 [INF] Fetching all gifts
+2026-02-03 17:46:21.733 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:46:21.742 +02:00 [INF] Incoming Request: GET /api/Category
+2026-02-03 17:46:21.751 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:46:21.753 +02:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ApiProject.Controllers.CategoryController (ApiProject).
+2026-02-03 17:46:21.748 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:46:21.750 +02:00 [INF] Completed GET /api/Category responded 200 in 66ms
+2026-02-03 17:46:21.765 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Category - 200 null application/json; charset=utf-8 93.3653ms
+2026-02-03 17:46:21.764 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:21.757 +02:00 [INF] Fetching all categories
+2026-02-03 17:46:21.778 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 42.5559ms
+2026-02-03 17:46:21.797 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:46:21.797 +02:00 [INF] Executed DbCommand (17ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [categories] AS [c]
+2026-02-03 17:46:21.798 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.802 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:21.806 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.CategoryModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.CategoryModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:21.807 +02:00 [INF] Completed GET /api/Gifts responded 200 in 91ms
+2026-02-03 17:46:21.808 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:46:21.810 +02:00 [INF] Executed action ApiProject.Controllers.CategoryController.GetAll (ApiProject) in 53.0312ms
+2026-02-03 17:46:21.812 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 108.7529ms
+2026-02-03 17:46:21.814 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.825 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:46:21.815 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:46:21.828 +02:00 [INF] Fetching all gifts
+2026-02-03 17:46:21.829 +02:00 [INF] Completed GET /api/Category responded 200 in 87ms
+2026-02-03 17:46:21.836 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:46:21.837 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Category - 200 null application/json; charset=utf-8 104.4477ms
+2026-02-03 17:46:21.843 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:21.848 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 19.826ms
+2026-02-03 17:46:21.849 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:46:21.851 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.854 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:21.855 +02:00 [INF] Completed GET /api/Gifts responded 200 in 46ms
+2026-02-03 17:46:21.856 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:46:21.858 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 61.2216ms
+2026-02-03 17:46:21.859 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.865 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:46:21.868 +02:00 [INF] Fetching all gifts
+2026-02-03 17:46:21.874 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:46:21.879 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:21.884 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 16.2628ms
+2026-02-03 17:46:21.886 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:46:21.887 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.891 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:21.892 +02:00 [INF] Completed GET /api/Gifts responded 200 in 35ms
+2026-02-03 17:46:21.893 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:46:21.899 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 49.2852ms
+2026-02-03 17:46:21.901 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.906 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:46:21.909 +02:00 [INF] Fetching all gifts
+2026-02-03 17:46:21.918 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:46:21.924 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:21.928 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 19.0913ms
+2026-02-03 17:46:21.930 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:46:21.930 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.933 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:21.934 +02:00 [INF] Completed GET /api/Gifts responded 200 in 41ms
+2026-02-03 17:46:21.935 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:46:21.939 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 53.02ms
+2026-02-03 17:46:21.940 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.945 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:46:21.948 +02:00 [INF] Fetching all gifts
+2026-02-03 17:46:21.955 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:46:21.960 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:21.963 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 14.687ms
+2026-02-03 17:46:21.964 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:46:21.965 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.968 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:46:21.970 +02:00 [INF] Completed GET /api/Gifts responded 200 in 34ms
+2026-02-03 17:46:21.972 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:46:21.975 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 44.9653ms
+2026-02-03 17:46:21.976 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:21.981 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:46:21.985 +02:00 [INF] Fetching all gifts
+2026-02-03 17:46:21.993 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:46:22.000 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:46:22.004 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 18.9801ms
+2026-02-03 17:46:22.012 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:46:22.018 +02:00 [INF] Completed GET /api/Gifts responded 200 in 46ms
+2026-02-03 17:46:22.026 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 61.6034ms
+2026-02-03 17:47:02.198 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:47:02.223 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:02.226 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:47:02.231 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:47:02.246 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:47:02.264 +02:00 [INF] Fetching all gifts
+2026-02-03 17:47:02.279 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:47:02.292 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:47:02.298 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 34.1924ms
+2026-02-03 17:47:02.301 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:47:02.314 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:47:02.330 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:02.332 +02:00 [INF] Completed GET /api/Gifts responded 200 in 105ms
+2026-02-03 17:47:02.334 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:47:02.339 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 141.0875ms
+2026-02-03 17:47:02.342 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:47:02.351 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:47:02.356 +02:00 [INF] Fetching all gifts
+2026-02-03 17:47:02.362 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:47:02.369 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:47:02.372 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 17.1716ms
+2026-02-03 17:47:02.376 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:47:02.381 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:47:02.387 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:02.388 +02:00 [INF] Completed GET /api/Gifts responded 200 in 54ms
+2026-02-03 17:47:02.389 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:47:02.392 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 91.8729ms
+2026-02-03 17:47:02.394 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:47:02.400 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:47:02.403 +02:00 [INF] Fetching all gifts
+2026-02-03 17:47:02.408 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:47:02.413 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:47:02.415 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 12.8405ms
+2026-02-03 17:47:02.417 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:47:02.419 +02:00 [INF] Completed GET /api/Gifts responded 200 in 29ms
+2026-02-03 17:47:02.423 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 46.8057ms
+2026-02-03 17:47:14.750 +02:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5132/api/Auth/login - null null
+2026-02-03 17:47:14.764 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:14.768 +02:00 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5132/api/Auth/login - 204 null null 17.7709ms
+2026-02-03 17:47:14.775 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5132/api/Auth/login - application/json 47
+2026-02-03 17:47:14.782 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:14.783 +02:00 [INF] Incoming Request: POST /api/Auth/login
+2026-02-03 17:47:14.785 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.AuthController.Login (ApiProject)'
+2026-02-03 17:47:14.795 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(LoginDto) on controller ApiProject.Controllers.AuthController (ApiProject).
+2026-02-03 17:47:15.247 +02:00 [INF] Login attempt for email: sari@gmail.com
+2026-02-03 17:47:15.259 +02:00 [INF] Attempting to get user by email sari@gmail.com
+2026-02-03 17:47:15.293 +02:00 [INF] Executed DbCommand (7ms) [Parameters=[@__email_0='?' (Size = 50)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [users] AS [u]
+WHERE [u].[Email] = @__email_0
+2026-02-03 17:47:15.298 +02:00 [INF] User found with email sari@gmail.com
+2026-02-03 17:47:15.953 +02:00 [INF] User sari@gmail.com logged in successfully.
+2026-02-03 17:47:15.956 +02:00 [INF] Executing OkObjectResult, writing value of type 'ApiProject.DTO.AuthorDto+UserModelDto'.
+2026-02-03 17:47:15.961 +02:00 [INF] Executed action ApiProject.Controllers.AuthController.Login (ApiProject) in 1159.7582ms
+2026-02-03 17:47:15.964 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.AuthController.Login (ApiProject)'
+2026-02-03 17:47:15.965 +02:00 [INF] Completed POST /api/Auth/login responded 200 in 1182ms
+2026-02-03 17:47:15.969 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5132/api/Auth/login - 200 null application/json; charset=utf-8 1194.1008ms
+2026-02-03 17:47:15.993 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:47:15.994 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Category - null null
+2026-02-03 17:47:16.001 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:16.006 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:16.008 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:47:16.011 +02:00 [INF] Incoming Request: GET /api/Category
+2026-02-03 17:47:16.014 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:47:16.016 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:47:16.018 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:47:16.019 +02:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ApiProject.Controllers.CategoryController (ApiProject).
+2026-02-03 17:47:16.021 +02:00 [INF] Fetching all gifts
+2026-02-03 17:47:16.024 +02:00 [INF] Fetching all categories
+2026-02-03 17:47:16.033 +02:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:47:16.036 +02:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [categories] AS [c]
+2026-02-03 17:47:16.060 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:47:16.065 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.CategoryModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.CategoryModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:47:16.066 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 45.2351ms
+2026-02-03 17:47:16.068 +02:00 [INF] Executed action ApiProject.Controllers.CategoryController.GetAll (ApiProject) in 44.8865ms
+2026-02-03 17:47:16.071 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Category - null null
+2026-02-03 17:47:16.071 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:47:16.074 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:47:16.079 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:16.081 +02:00 [INF] Completed GET /api/Gifts responded 200 in 73ms
+2026-02-03 17:47:16.082 +02:00 [INF] Completed GET /api/Category responded 200 in 71ms
+2026-02-03 17:47:16.084 +02:00 [INF] Incoming Request: GET /api/Category
+2026-02-03 17:47:16.087 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 93.6517ms
+2026-02-03 17:47:16.090 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Category - 200 null application/json; charset=utf-8 96.2346ms
+2026-02-03 17:47:16.092 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:47:16.105 +02:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ApiProject.Controllers.CategoryController (ApiProject).
+2026-02-03 17:47:16.110 +02:00 [INF] Fetching all categories
+2026-02-03 17:47:16.117 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [categories] AS [c]
+2026-02-03 17:47:16.131 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.CategoryModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.CategoryModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:47:16.133 +02:00 [INF] Executed action ApiProject.Controllers.CategoryController.GetAll (ApiProject) in 23.4337ms
+2026-02-03 17:47:16.135 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Category - null null
+2026-02-03 17:47:16.136 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:47:16.141 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:16.142 +02:00 [INF] Completed GET /api/Category responded 200 in 58ms
+2026-02-03 17:47:16.144 +02:00 [INF] Incoming Request: GET /api/Category
+2026-02-03 17:47:16.147 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Category - 200 null application/json; charset=utf-8 76.0686ms
+2026-02-03 17:47:16.148 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:47:16.155 +02:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ApiProject.Controllers.CategoryController (ApiProject).
+2026-02-03 17:47:16.158 +02:00 [INF] Fetching all categories
+2026-02-03 17:47:16.165 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [categories] AS [c]
+2026-02-03 17:47:16.169 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.CategoryModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.CategoryModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:47:16.171 +02:00 [INF] Executed action ApiProject.Controllers.CategoryController.GetAll (ApiProject) in 13.0305ms
+2026-02-03 17:47:16.173 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:47:16.175 +02:00 [INF] Completed GET /api/Category responded 200 in 31ms
+2026-02-03 17:47:16.177 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Category - 200 null application/json; charset=utf-8 41.9691ms
+2026-02-03 17:47:21.129 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:47:21.147 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:21.152 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:47:21.152 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/cart/unpaid/18 - null null
+2026-02-03 17:47:21.158 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:47:21.172 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:21.179 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:47:21.186 +02:00 [INF] Incoming Request: GET /api/cart/unpaid/18
+2026-02-03 17:47:21.194 +02:00 [INF] Fetching all gifts
+2026-02-03 17:47:21.198 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CartController.GetUnpaidCartByUserId (ApiProject)'
+2026-02-03 17:47:21.204 +02:00 [INF] Route matched with {action = "GetUnpaidCartByUserId", controller = "Cart"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[ApiProject.DTO.CartDto+CartModelDto]] GetUnpaidCartByUserId(Int32) on controller ApiProject.Controllers.CartController (ApiProject).
+2026-02-03 17:47:21.205 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:47:21.212 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:47:21.217 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 22.8348ms
+2026-02-03 17:47:21.219 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:47:21.221 +02:00 [INF] Completed GET /api/Gifts responded 200 in 69ms
+2026-02-03 17:47:21.223 +02:00 [INF] Executed DbCommand (11ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [c1].[Id], [c1].[MyStatus], [c1].[UserModelId], [s].[Id], [s].[CartId], [s].[GiftModelId], [s].[Quantity], [s].[Id0], [s].[CategoryModelId], [s].[Description], [s].[DonorModelId], [s].[Image], [s].[Name], [s].[TicketPrice], [s].[UserModelId], [s].[isRaffleDone]
+FROM (
+    SELECT TOP(1) [c].[Id], [c].[MyStatus], [c].[UserModelId]
+    FROM [carts] AS [c]
+    WHERE [c].[UserModelId] = @__userId_0 AND [c].[MyStatus] = 0
+) AS [c1]
+LEFT JOIN (
+    SELECT [c0].[Id], [c0].[CartId], [c0].[GiftModelId], [c0].[Quantity], [g].[Id] AS [Id0], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone]
+    FROM [cartItems] AS [c0]
+    INNER JOIN [gifts] AS [g] ON [c0].[GiftModelId] = [g].[Id]
+) AS [s] ON [c1].[Id] = [s].[CartId]
+ORDER BY [c1].[Id], [s].[Id]
+2026-02-03 17:47:21.224 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 95.4497ms
+2026-02-03 17:47:21.238 +02:00 [INF] Executing OkObjectResult, writing value of type 'ApiProject.DTO.CartDto+CartModelDto'.
+2026-02-03 17:47:21.242 +02:00 [INF] Executed action ApiProject.Controllers.CartController.GetUnpaidCartByUserId (ApiProject) in 33.7904ms
+2026-02-03 17:47:21.245 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CartController.GetUnpaidCartByUserId (ApiProject)'
+2026-02-03 17:47:21.248 +02:00 [INF] Completed GET /api/cart/unpaid/18 responded 200 in 62ms
+2026-02-03 17:47:21.252 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/cart/unpaid/18 - 200 null application/json; charset=utf-8 100.1554ms
+2026-02-03 17:47:26.680 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/cart/paid/18 - null null
+2026-02-03 17:47:26.691 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:26.706 +02:00 [INF] Incoming Request: GET /api/cart/paid/18
+2026-02-03 17:47:26.719 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CartController.GetPaidCartByUserId (ApiProject)'
+2026-02-03 17:47:26.745 +02:00 [INF] Route matched with {action = "GetPaidCartByUserId", controller = "Cart"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[ApiProject.DTO.CartDto+CartModelDto]] GetPaidCartByUserId(Int32) on controller ApiProject.Controllers.CartController (ApiProject).
+2026-02-03 17:47:26.813 +02:00 [INF] Executed DbCommand (9ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[UserModelId], [c].[MyStatus], [s].[GiftId], [s].[GiftName], [s].[Quantity], [s].[TicketPrice], [s].[Id], [s].[Id0]
+FROM [carts] AS [c]
+LEFT JOIN (
+    SELECT [c0].[GiftModelId] AS [GiftId], [g].[Name] AS [GiftName], [c0].[Quantity], [g].[TicketPrice], [c0].[Id], [g].[Id] AS [Id0], [c0].[CartId]
+    FROM [cartItems] AS [c0]
+    INNER JOIN [gifts] AS [g] ON [c0].[GiftModelId] = [g].[Id]
+) AS [s] ON [c].[Id] = [s].[CartId]
+WHERE [c].[UserModelId] = @__userId_0 AND [c].[MyStatus] = 1
+ORDER BY [c].[Id], [s].[Id]
+2026-02-03 17:47:26.825 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ApiProject.DTO.CartDto+CartModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:47:26.828 +02:00 [INF] Executed action ApiProject.Controllers.CartController.GetPaidCartByUserId (ApiProject) in 79.9141ms
+2026-02-03 17:47:26.832 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CartController.GetPaidCartByUserId (ApiProject)'
+2026-02-03 17:47:26.834 +02:00 [INF] Completed GET /api/cart/paid/18 responded 200 in 128ms
+2026-02-03 17:47:26.837 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/cart/paid/18 - 200 null application/json; charset=utf-8 156.8397ms
+2026-02-03 17:47:34.944 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:47:34.948 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Category - null null
+2026-02-03 17:47:34.958 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:34.961 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:34.964 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:47:34.965 +02:00 [INF] Incoming Request: GET /api/Category
+2026-02-03 17:47:34.970 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:47:34.967 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:47:34.973 +02:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ApiProject.Controllers.CategoryController (ApiProject).
+2026-02-03 17:47:34.975 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:47:34.979 +02:00 [INF] Fetching all categories
+2026-02-03 17:47:34.994 +02:00 [INF] Fetching all gifts
+2026-02-03 17:47:35.003 +02:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [categories] AS [c]
+2026-02-03 17:47:35.014 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:47:35.017 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.CategoryModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.CategoryModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:47:35.021 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:47:35.022 +02:00 [INF] Executed action ApiProject.Controllers.CategoryController.GetAll (ApiProject) in 43.3769ms
+2026-02-03 17:47:35.024 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Category - null null
+2026-02-03 17:47:35.027 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:47:35.027 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 17:47:35.024 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 30.1576ms
+2026-02-03 17:47:35.049 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:35.051 +02:00 [INF] Completed GET /api/Category responded 200 in 85ms
+2026-02-03 17:47:35.055 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:35.057 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:47:35.057 +02:00 [INF] Incoming Request: GET /api/Category
+2026-02-03 17:47:35.060 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Category - 200 null application/json; charset=utf-8 112.0339ms
+2026-02-03 17:47:35.061 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 17:47:35.063 +02:00 [INF] Completed GET /api/Gifts responded 200 in 99ms
+2026-02-03 17:47:35.065 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:47:35.076 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:47:35.088 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 143.3826ms
+2026-02-03 17:47:35.090 +02:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ApiProject.Controllers.CategoryController (ApiProject).
+2026-02-03 17:47:35.094 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 17:47:35.102 +02:00 [INF] Fetching all categories
+2026-02-03 17:47:35.105 +02:00 [INF] Fetching all gifts
+2026-02-03 17:47:35.108 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [categories] AS [c]
+2026-02-03 17:47:35.112 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 17:47:35.115 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.CategoryModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.CategoryModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:47:35.120 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:47:35.122 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Category - null null
+2026-02-03 17:47:35.121 +02:00 [INF] Executed action ApiProject.Controllers.CategoryController.GetAll (ApiProject) in 19.1519ms
+2026-02-03 17:47:35.123 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 18.04ms
+2026-02-03 17:47:35.127 +02:00 [INF] CORS policy execution successful.
+2026-02-03 17:47:35.129 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:47:35.131 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 17:47:35.133 +02:00 [INF] Incoming Request: GET /api/Category
+2026-02-03 17:47:35.134 +02:00 [INF] Completed GET /api/Category responded 200 in 77ms
+2026-02-03 17:47:35.136 +02:00 [INF] Completed GET /api/Gifts responded 200 in 75ms
+2026-02-03 17:47:35.138 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:47:35.141 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Category - 200 null application/json; charset=utf-8 117.2309ms
+2026-02-03 17:47:35.143 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 116.0809ms
+2026-02-03 17:47:35.144 +02:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ApiProject.Controllers.CategoryController (ApiProject).
+2026-02-03 17:47:35.157 +02:00 [INF] Fetching all categories
+2026-02-03 17:47:35.161 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [categories] AS [c]
+2026-02-03 17:47:35.164 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.CategoryModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.CategoryModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 17:47:35.166 +02:00 [INF] Executed action ApiProject.Controllers.CategoryController.GetAll (ApiProject) in 9.5957ms
+2026-02-03 17:47:35.168 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 17:47:35.171 +02:00 [INF] Completed GET /api/Category responded 200 in 37ms
+2026-02-03 17:47:35.173 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Category - 200 null application/json; charset=utf-8 50.6125ms
+2026-02-03 18:07:23.195 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 18:07:23.200 +02:00 [INF] CORS policy execution successful.
+2026-02-03 18:07:23.203 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 18:07:23.206 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:23.214 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 18:07:23.219 +02:00 [INF] Fetching all gifts
+2026-02-03 18:07:23.370 +02:00 [INF] Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 18:07:23.376 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 18:07:23.379 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 161.0488ms
+2026-02-03 18:07:23.385 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:23.385 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 18:07:23.401 +02:00 [INF] Completed GET /api/Gifts responded 200 in 198ms
+2026-02-03 18:07:23.409 +02:00 [INF] CORS policy execution successful.
+2026-02-03 18:07:23.417 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 222.3667ms
+2026-02-03 18:07:23.421 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 18:07:23.433 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:23.435 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 18:07:23.441 +02:00 [INF] Fetching all gifts
+2026-02-03 18:07:23.449 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 18:07:23.458 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 18:07:23.463 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 22.3749ms
+2026-02-03 18:07:23.467 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:23.471 +02:00 [INF] Completed GET /api/Gifts responded 200 in 50ms
+2026-02-03 18:07:23.478 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 95.603ms
+2026-02-03 18:07:27.868 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 18:07:27.871 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/cart/unpaid/18 - null null
+2026-02-03 18:07:27.872 +02:00 [INF] CORS policy execution successful.
+2026-02-03 18:07:27.878 +02:00 [INF] CORS policy execution successful.
+2026-02-03 18:07:27.880 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 18:07:27.884 +02:00 [INF] Incoming Request: GET /api/cart/unpaid/18
+2026-02-03 18:07:27.886 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:27.890 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CartController.GetUnpaidCartByUserId (ApiProject)'
+2026-02-03 18:07:27.894 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 18:07:27.900 +02:00 [INF] Route matched with {action = "GetUnpaidCartByUserId", controller = "Cart"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[ApiProject.DTO.CartDto+CartModelDto]] GetUnpaidCartByUserId(Int32) on controller ApiProject.Controllers.CartController (ApiProject).
+2026-02-03 18:07:27.909 +02:00 [INF] Fetching all gifts
+2026-02-03 18:07:27.935 +02:00 [INF] Executed DbCommand (15ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [c1].[Id], [c1].[MyStatus], [c1].[UserModelId], [s].[Id], [s].[CartId], [s].[GiftModelId], [s].[Quantity], [s].[Id0], [s].[CategoryModelId], [s].[Description], [s].[DonorModelId], [s].[Image], [s].[Name], [s].[TicketPrice], [s].[UserModelId], [s].[isRaffleDone]
+FROM (
+    SELECT TOP(1) [c].[Id], [c].[MyStatus], [c].[UserModelId]
+    FROM [carts] AS [c]
+    WHERE [c].[UserModelId] = @__userId_0 AND [c].[MyStatus] = 0
+) AS [c1]
+LEFT JOIN (
+    SELECT [c0].[Id], [c0].[CartId], [c0].[GiftModelId], [c0].[Quantity], [g].[Id] AS [Id0], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone]
+    FROM [cartItems] AS [c0]
+    INNER JOIN [gifts] AS [g] ON [c0].[GiftModelId] = [g].[Id]
+) AS [s] ON [c1].[Id] = [s].[CartId]
+ORDER BY [c1].[Id], [s].[Id]
+2026-02-03 18:07:27.952 +02:00 [INF] Executing OkObjectResult, writing value of type 'ApiProject.DTO.CartDto+CartModelDto'.
+2026-02-03 18:07:27.956 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 18:07:27.961 +02:00 [INF] Executed action ApiProject.Controllers.CartController.GetUnpaidCartByUserId (ApiProject) in 44.6916ms
+2026-02-03 18:07:27.971 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 18:07:27.972 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CartController.GetUnpaidCartByUserId (ApiProject)'
+2026-02-03 18:07:27.981 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 18:07:27.978 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 69.6658ms
+2026-02-03 18:07:27.983 +02:00 [INF] Completed GET /api/cart/unpaid/18 responded 200 in 99ms
+2026-02-03 18:07:28.002 +02:00 [INF] CORS policy execution successful.
+2026-02-03 18:07:28.006 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:28.013 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/cart/unpaid/18 - 200 null application/json; charset=utf-8 141.8387ms
+2026-02-03 18:07:28.015 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 18:07:28.017 +02:00 [INF] Completed GET /api/Gifts responded 200 in 137ms
+2026-02-03 18:07:28.033 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:28.038 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 170.3618ms
+2026-02-03 18:07:28.041 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 18:07:28.061 +02:00 [INF] Fetching all gifts
+2026-02-03 18:07:28.071 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 18:07:28.081 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 18:07:28.087 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 26.1958ms
+2026-02-03 18:07:28.090 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:28.095 +02:00 [INF] Completed GET /api/Gifts responded 200 in 80ms
+2026-02-03 18:07:28.104 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 123.3638ms
+2026-02-03 18:07:28.524 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 18:07:28.525 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Category - null null
+2026-02-03 18:07:28.527 +02:00 [INF] CORS policy execution successful.
+2026-02-03 18:07:28.530 +02:00 [INF] CORS policy execution successful.
+2026-02-03 18:07:28.531 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 18:07:28.532 +02:00 [INF] Incoming Request: GET /api/Category
+2026-02-03 18:07:28.536 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:28.538 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 18:07:28.540 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 18:07:28.543 +02:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ApiProject.Controllers.CategoryController (ApiProject).
+2026-02-03 18:07:28.551 +02:00 [INF] Fetching all gifts
+2026-02-03 18:07:28.556 +02:00 [INF] Fetching all categories
+2026-02-03 18:07:28.564 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 18:07:28.571 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [categories] AS [c]
+2026-02-03 18:07:28.576 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 18:07:28.583 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.CategoryModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.CategoryModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 18:07:28.587 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 35.4205ms
+2026-02-03 18:07:28.592 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Category - null null
+2026-02-03 18:07:28.589 +02:00 [INF] Executed action ApiProject.Controllers.CategoryController.GetAll (ApiProject) in 33.2746ms
+2026-02-03 18:07:28.601 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:28.588 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 18:07:28.613 +02:00 [INF] CORS policy execution successful.
+2026-02-03 18:07:28.619 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 18:07:28.622 +02:00 [INF] Completed GET /api/Gifts responded 200 in 91ms
+2026-02-03 18:07:28.631 +02:00 [INF] CORS policy execution successful.
+2026-02-03 18:07:28.634 +02:00 [INF] Incoming Request: GET /api/Category
+2026-02-03 18:07:28.638 +02:00 [INF] Completed GET /api/Category responded 200 in 105ms
+2026-02-03 18:07:28.645 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 121.5653ms
+2026-02-03 18:07:28.647 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 18:07:28.653 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 18:07:28.657 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Category - 200 null application/json; charset=utf-8 131.9313ms
+2026-02-03 18:07:28.671 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:28.676 +02:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ApiProject.Controllers.CategoryController (ApiProject).
+2026-02-03 18:07:28.692 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 18:07:28.698 +02:00 [INF] Fetching all categories
+2026-02-03 18:07:28.704 +02:00 [INF] Fetching all gifts
+2026-02-03 18:07:28.713 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [categories] AS [c]
+2026-02-03 18:07:28.721 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 18:07:28.726 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.CategoryModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.CategoryModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 18:07:28.735 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 18:07:28.737 +02:00 [INF] Executed action ApiProject.Controllers.CategoryController.GetAll (ApiProject) in 39.2612ms
+2026-02-03 18:07:28.738 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Category - null null
+2026-02-03 18:07:28.744 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 39.9547ms
+2026-02-03 18:07:28.746 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 18:07:28.761 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 18:07:28.771 +02:00 [INF] CORS policy execution successful.
+2026-02-03 18:07:28.780 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:28.791 +02:00 [INF] CORS policy execution successful.
+2026-02-03 18:07:28.797 +02:00 [INF] Completed GET /api/Category responded 200 in 162ms
+2026-02-03 18:07:28.801 +02:00 [INF] Incoming Request: GET /api/Category
+2026-02-03 18:07:28.804 +02:00 [INF] Completed GET /api/Gifts responded 200 in 157ms
+2026-02-03 18:07:28.809 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 18:07:28.818 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Category - 200 null application/json; charset=utf-8 226.5373ms
+2026-02-03 18:07:28.823 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 18:07:28.833 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 245.0945ms
+2026-02-03 18:07:28.838 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:28.856 +02:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ApiProject.Controllers.CategoryController (ApiProject).
+2026-02-03 18:07:28.874 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 18:07:28.879 +02:00 [INF] Fetching all categories
+2026-02-03 18:07:28.886 +02:00 [INF] Fetching all gifts
+2026-02-03 18:07:28.894 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [categories] AS [c]
+2026-02-03 18:07:28.904 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 18:07:28.907 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.CategoryModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.CategoryModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 18:07:28.915 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 18:07:28.919 +02:00 [INF] Executed action ApiProject.Controllers.CategoryController.GetAll (ApiProject) in 40.1486ms
+2026-02-03 18:07:28.922 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 36.2095ms
+2026-02-03 18:07:28.928 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CategoryController.GetAll (ApiProject)'
+2026-02-03 18:07:28.934 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:28.936 +02:00 [INF] Completed GET /api/Category responded 200 in 135ms
+2026-02-03 18:07:28.938 +02:00 [INF] Completed GET /api/Gifts responded 200 in 128ms
+2026-02-03 18:07:28.946 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Category - 200 null application/json; charset=utf-8 207.8406ms
+2026-02-03 18:07:28.954 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 207.7504ms
+2026-02-03 18:07:29.815 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 18:07:29.818 +02:00 [INF] CORS policy execution successful.
+2026-02-03 18:07:29.819 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/cart/unpaid/18 - null null
+2026-02-03 18:07:29.820 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 18:07:29.822 +02:00 [INF] CORS policy execution successful.
+2026-02-03 18:07:29.824 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:29.824 +02:00 [INF] Incoming Request: GET /api/cart/unpaid/18
+2026-02-03 18:07:29.827 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 18:07:29.834 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.CartController.GetUnpaidCartByUserId (ApiProject)'
+2026-02-03 18:07:29.841 +02:00 [INF] Fetching all gifts
+2026-02-03 18:07:29.846 +02:00 [INF] Route matched with {action = "GetUnpaidCartByUserId", controller = "Cart"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[ApiProject.DTO.CartDto+CartModelDto]] GetUnpaidCartByUserId(Int32) on controller ApiProject.Controllers.CartController (ApiProject).
+2026-02-03 18:07:29.855 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 18:07:29.866 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [c1].[Id], [c1].[MyStatus], [c1].[UserModelId], [s].[Id], [s].[CartId], [s].[GiftModelId], [s].[Quantity], [s].[Id0], [s].[CategoryModelId], [s].[Description], [s].[DonorModelId], [s].[Image], [s].[Name], [s].[TicketPrice], [s].[UserModelId], [s].[isRaffleDone]
+FROM (
+    SELECT TOP(1) [c].[Id], [c].[MyStatus], [c].[UserModelId]
+    FROM [carts] AS [c]
+    WHERE [c].[UserModelId] = @__userId_0 AND [c].[MyStatus] = 0
+) AS [c1]
+LEFT JOIN (
+    SELECT [c0].[Id], [c0].[CartId], [c0].[GiftModelId], [c0].[Quantity], [g].[Id] AS [Id0], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone]
+    FROM [cartItems] AS [c0]
+    INNER JOIN [gifts] AS [g] ON [c0].[GiftModelId] = [g].[Id]
+) AS [s] ON [c1].[Id] = [s].[CartId]
+ORDER BY [c1].[Id], [s].[Id]
+2026-02-03 18:07:29.871 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 18:07:29.881 +02:00 [INF] Executing OkObjectResult, writing value of type 'ApiProject.DTO.CartDto+CartModelDto'.
+2026-02-03 18:07:29.886 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 44.79ms
+2026-02-03 18:07:29.887 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 18:07:29.887 +02:00 [INF] Executed action ApiProject.Controllers.CartController.GetUnpaidCartByUserId (ApiProject) in 30.2415ms
+2026-02-03 18:07:29.894 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:29.906 +02:00 [INF] CORS policy execution successful.
+2026-02-03 18:07:29.909 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.CartController.GetUnpaidCartByUserId (ApiProject)'
+2026-02-03 18:07:29.915 +02:00 [INF] Completed GET /api/Gifts responded 200 in 95ms
+2026-02-03 18:07:29.919 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 18:07:29.922 +02:00 [INF] Completed GET /api/cart/unpaid/18 responded 200 in 98ms
+2026-02-03 18:07:29.934 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 119.4052ms
+2026-02-03 18:07:29.939 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:29.948 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/cart/unpaid/18 - 200 null application/json; charset=utf-8 128.7319ms
+2026-02-03 18:07:29.959 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 18:07:29.980 +02:00 [INF] Fetching all gifts
+2026-02-03 18:07:29.987 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 18:07:30.000 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 18:07:30.005 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 25.5014ms
+2026-02-03 18:07:30.007 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/api/Gifts - null null
+2026-02-03 18:07:30.008 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:30.019 +02:00 [INF] CORS policy execution successful.
+2026-02-03 18:07:30.021 +02:00 [INF] Completed GET /api/Gifts responded 200 in 102ms
+2026-02-03 18:07:30.027 +02:00 [INF] Incoming Request: GET /api/Gifts
+2026-02-03 18:07:30.036 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 148.5199ms
+2026-02-03 18:07:30.037 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:30.060 +02:00 [INF] Route matched with {action = "GetGifts", controller = "Gifts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiProject.DTO.GiftDto+GiftModelDto]]] GetGifts() on controller ApiProject.Controllers.GiftsController (ApiProject).
+2026-02-03 18:07:30.069 +02:00 [INF] Fetching all gifts
+2026-02-03 18:07:30.080 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [g].[Id], [g].[CategoryModelId], [g].[Description], [g].[DonorModelId], [g].[Image], [g].[Name], [g].[TicketPrice], [g].[UserModelId], [g].[isRaffleDone], [d].[Id], [d].[Email], [d].[FirstName], [d].[LastName], [d].[Phone], [c].[Id], [c].[Name], [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Phone], [u].[Role]
+FROM [gifts] AS [g]
+INNER JOIN [donors] AS [d] ON [g].[DonorModelId] = [d].[Id]
+INNER JOIN [categories] AS [c] ON [g].[CategoryModelId] = [c].[Id]
+LEFT JOIN [users] AS [u] ON [g].[UserModelId] = [u].[Id]
+2026-02-03 18:07:30.091 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ApiProject.Models.GiftModel, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ApiProject.DTO.GiftDto+GiftModelDto, ApiProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-03 18:07:30.098 +02:00 [INF] Executed action ApiProject.Controllers.GiftsController.GetGifts (ApiProject) in 29.8823ms
+2026-02-03 18:07:30.104 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.GiftsController.GetGifts (ApiProject)'
+2026-02-03 18:07:30.110 +02:00 [INF] Completed GET /api/Gifts responded 200 in 83ms
+2026-02-03 18:07:30.120 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/api/Gifts - 200 null application/json; charset=utf-8 112.8698ms

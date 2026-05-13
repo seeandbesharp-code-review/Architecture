@@ -1,0 +1,38 @@
+<div class="gift-container">
+  <div *ngIf="gift$ | async as gift; else loadingTemplate" class="gift-card">
+    <div class="image-wrapper">
+      <img [src]="'assets/images/gifts/' + gift.image" [alt]="gift.name" />
+      <span class="category-badge">{{ gift.category }}</span>
+    </div>
+
+    <div class="content-wrapper">
+      <h2 class="title">{{ gift.name }}</h2>
+
+      <div class="details-list">
+        <div class="detail-item">
+          <span class="icon">💰</span>
+          <span class="label">מחיר:</span>
+          <span class="value price">{{ gift.ticketPrice | currency:'ILS':'symbol':'1.0-0' }}</span>
+        </div>
+
+        <div class="detail-item">
+          <span class="icon">👤</span>
+          <span class="label">תורם:</span>
+          <span class="value">{{ gift.donor }}</span>
+        </div>
+      </div>
+
+      <div class="description-section">
+        <h4 class="description-title">קצת על המתנה:</h4>
+        <p class="description-text">{{ gift.description }}</p>
+      </div>
+    </div>
+  </div>
+
+  <ng-template #loadingTemplate>
+    <div class="loader-container">
+      <div class="spinner"></div>
+      <p>מחפשים את המתנה בשבילך...</p>
+    </div>
+  </ng-template>
+</div>

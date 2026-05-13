@@ -1,0 +1,2020 @@
+E:\ApiProject\ApiProject\bin\Debug\net8.0\appsettings.Development.json
+E:\ApiProject\ApiProject\bin\Debug\net8.0\appsettings.json
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.staticwebassets.endpoints.json
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.exe
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.deps.json
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.runtimeconfig.json
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.pdb
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Azure.Core.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Azure.Identity.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Humanizer.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.ClientModel.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.CodeDom.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Text.Json.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.csproj.AssemblyReference.cache
+E:\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.AssemblyInfoInputs.cache
+E:\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.AssemblyInfo.cs
+E:\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.csproj.CoreCompileInputs.cache
+E:\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.MvcApplicationPartsAssemblyInfo.cs
+E:\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.MvcApplicationPartsAssemblyInfo.cache
+E:\ApiProject\ApiProject\obj\Debug\net8.0\scopedcss\bundle\ApiProject.styles.css
+E:\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.build.json
+E:\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.development.json
+E:\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.csproj.Up2Date
+E:\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.dll
+E:\ApiProject\ApiProject\obj\Debug\net8.0\refint\ApiProject.dll
+E:\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.pdb
+E:\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.genruntimeconfig.cache
+E:\ApiProject\ApiProject\obj\Debug\net8.0\ref\ApiProject.dll
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.csproj.AssemblyReference.cache
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.AssemblyInfoInputs.cache
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.AssemblyInfo.cs
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.csproj.CoreCompileInputs.cache
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.MvcApplicationPartsAssemblyInfo.cs
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.MvcApplicationPartsAssemblyInfo.cache
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.dll
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\refint\ApiProject.dll
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.pdb
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\appsettings.Development.json
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\appsettings.json
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.staticwebassets.endpoints.json
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.exe
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.deps.json
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.runtimeconfig.json
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.pdb
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Azure.Core.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Azure.Identity.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Humanizer.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.ClientModel.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.CodeDom.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Text.Json.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\scopedcss\bundle\ApiProject.styles.css
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.build.json
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.development.json
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.csproj.Up2Date
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.genruntimeconfig.cache
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ref\ApiProject.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Build.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Common.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\MailKit.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\MimeKit.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.csproj.AssemblyReference.cache
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\rpswa.dswa.cache.json
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.GeneratedMSBuildEditorConfig.editorconfig
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.AssemblyInfoInputs.cache
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.AssemblyInfo.cs
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.csproj.CoreCompileInputs.cache
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.MvcApplicationPartsAssemblyInfo.cs
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.MvcApplicationPartsAssemblyInfo.cache
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\appsettings.Development.json
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\appsettings.json
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.staticwebassets.endpoints.json
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.exe
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.deps.json
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.runtimeconfig.json
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.pdb
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Azure.Core.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Azure.Identity.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\BCrypt.Net-Next.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Humanizer.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\MailKit.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Build.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\MimeKit.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Common.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Configuration.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Frameworks.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.LibraryModel.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Packaging.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.ProjectModel.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Protocol.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Versioning.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.ClientModel.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.CodeDom.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.Convention.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Formats.Asn1.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Memory.Data.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Text.Json.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\af\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ar\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\az\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\bg\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\da\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\el\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fa\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\he\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\hr\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\hu\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\hy\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\id\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\is\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ku\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\lv\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\mt\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\nb\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\nl\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ro\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\sk\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\sl\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\sr\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\sv\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\uk\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\vi\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\rjimswa.dswa.cache.json
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\scopedcss\bundle\ApiProject.styles.css
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.build.json
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.build.json.cache
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.development.json
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\swae.build.ex.cache
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.csproj.Up2Date
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.dll
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\refint\ApiProject.dll
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.pdb
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.genruntimeconfig.cache
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ref\ApiProject.dll
+I:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.AspNetCore.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.Sinks.File.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ClosedXML.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Excelerator.ClosedXml.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Excelerator.Common.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ExcelNumberFormat.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\FastMember.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Drawing.Common.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.IO.Packaging.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+I:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\appsettings.Development.json
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\appsettings.json
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.staticwebassets.endpoints.json
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.exe
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.deps.json
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.runtimeconfig.json
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ApiProject.pdb
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Azure.Core.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Azure.Identity.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ClosedXML.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Excelerator.ClosedXml.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Excelerator.Common.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\FastMember.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Humanizer.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\MailKit.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\MimeKit.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Common.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.ClientModel.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.CodeDom.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\System.Text.Json.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Api Project\ApiProject\ApiProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.csproj.AssemblyReference.cache
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.AssemblyInfoInputs.cache
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.AssemblyInfo.cs
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.csproj.CoreCompileInputs.cache
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\scopedcss\bundle\ApiProject.styles.css
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.csproj.Up2Date
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.dll
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\refint\ApiProject.dll
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.pdb
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ApiProject.genruntimeconfig.cache
+D:\Api Project\ApiProject\ApiProject\obj\Debug\net8.0\ref\ApiProject.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\appsettings.Development.json
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\appsettings.json
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.staticwebassets.endpoints.json
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.exe
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.deps.json
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.runtimeconfig.json
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.pdb
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Azure.Core.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Azure.Identity.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ClosedXML.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Excelerator.ClosedXml.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Excelerator.Common.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ExcelNumberFormat.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\FastMember.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Humanizer.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\MailKit.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Build.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\MimeKit.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Common.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.ClientModel.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.CodeDom.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.IO.Packaging.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Text.Json.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.csproj.AssemblyReference.cache
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.AssemblyInfoInputs.cache
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.AssemblyInfo.cs
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.csproj.CoreCompileInputs.cache
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.MvcApplicationPartsAssemblyInfo.cs
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.MvcApplicationPartsAssemblyInfo.cache
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\scopedcss\bundle\ApiProject.styles.css
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\staticwebassets.build.json
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\staticwebassets.development.json
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.csproj.Up2Date
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.dll
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\refint\ApiProject.dll
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.pdb
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.genruntimeconfig.cache
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ref\ApiProject.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\appsettings.Development.json
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\appsettings.json
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.staticwebassets.endpoints.json
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.exe
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.deps.json
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.runtimeconfig.json
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.pdb
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Azure.Core.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Azure.Identity.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ClosedXML.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Excelerator.ClosedXml.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Excelerator.Common.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\FastMember.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Humanizer.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\MailKit.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\MimeKit.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Common.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.ClientModel.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.CodeDom.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Text.Json.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Api Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.csproj.AssemblyReference.cache
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.AssemblyInfoInputs.cache
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.AssemblyInfo.cs
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.csproj.CoreCompileInputs.cache
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\scopedcss\bundle\ApiProject.styles.css
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.csproj.Up2Date
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.dll
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\refint\ApiProject.dll
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.pdb
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.genruntimeconfig.cache
+D:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\ref\ApiProject.dll
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Api Project\ApiProject2\ApiProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\appsettings.json
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.staticwebassets.endpoints.json
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.exe
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.deps.json
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.runtimeconfig.json
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ApiProject.pdb
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Excelerator.ClosedXml.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Excelerator.Common.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\FastMember.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Humanizer.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\MailKit.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\MimeKit.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.csproj.AssemblyReference.cache
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.AssemblyInfoInputs.cache
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.AssemblyInfo.cs
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.csproj.CoreCompileInputs.cache
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.sourcelink.json
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\scopedcss\bundle\ApiProject.styles.css
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.csproj.Up2Date
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\refint\ApiProject.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.pdb
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\ApiProject.genruntimeconfig.cache
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\obj\Debug\net8.0\ref\ApiProject.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\belli\Desktop\Project\ApiProject2\ApiProject\bin\Debug\net8.0\StackExchange.Redis.dll

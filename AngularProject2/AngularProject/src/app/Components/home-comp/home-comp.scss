@@ -1,0 +1,78 @@
+
+
+.hero-container {
+  height: calc(100vh - 80px);
+  background: linear-gradient(135deg, #fff8e7 0%, #fbe8a6 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  direction: rtl;
+  color: #3a2e1a; // צבע טקסט חום כהה לקריאות
+}
+
+.hero-content {
+  text-align: center;
+  z-index: 10;
+  max-width: 900px;
+  padding: 40px 30px;
+  border-radius: 30px;
+  background: rgba(255, 248, 231, 0.9);
+  box-shadow: 0 15px 40px rgba(212, 175, 55, 0.3);
+}
+
+.badge {
+  background: rgba(212, 175, 55, 0.15);
+  border: 1px solid #d4af37;
+  color: #b38728;
+  display: inline-block;
+  padding: 10px 25px;
+  border-radius: 50px;
+  font-weight: 800;
+  margin-bottom: 25px;
+  text-transform: uppercase;
+  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.3);
+}
+
+.main-title {
+  font-size: clamp(2.5rem, 6vw, 4rem);
+  line-height: 1.2;
+  margin-bottom: 30px;
+  font-weight: 900;
+  color: #b38728;
+
+  span {
+    background: linear-gradient(to right, #d4af37, #f9e29c, #b38728);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 0 10px rgba(212, 175, 55, 0.4));
+  }
+}
+
+.sub-text {
+  font-size: 1.2rem;
+  color: #8c6c2f;
+  margin-bottom: 35px;
+  line-height: 1.6;
+  text-shadow: 0 0 6px rgba(212, 175, 55, 0.2);
+}
+
+.mega-button {
+  background: linear-gradient(135deg, #d4af37 0%, #f9e29c 50%, #b38728 100%);
+  border: none;
+  padding: 20px 50px;
+  border-radius: 20px;
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: #3a2e1a;
+  cursor: pointer;
+  box-shadow: 0 10px 30px rgba(212, 175, 55, 0.3);
+  transition: all 0.3s ease;
+
+  &:hover {
+    transform: scale(1.05) translateY(-3px);
+    background: linear-gradient(135deg, #f9e29c 0%, #d4af37 50%, #f9e29c 100%);
+    box-shadow: 0 15px 40px rgba(212, 175, 55, 0.5);
+  }
+}

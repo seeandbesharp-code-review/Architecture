@@ -1,0 +1,28 @@
+<p-dialog [(visible)]="displayDialog" [modal]="true" [header]="'רוכשים עבור: ' + giftName" [closable]="true"
+    [style]="{width: '600px'}" (onHide)="closeDialog()" [rtl]="true">
+
+    <div *ngIf="isLoading" class="loader-container">
+        <p>טוען נתונים...</p>
+    </div>
+
+    <p-table *ngIf="!isLoading && buyers.length > 0" [value]="buyers" styleClass="p-datatable-striped">
+        <ng-template pTemplate="header">
+            <tr>
+                <th>שם מלא</th>
+                <th>אימייל</th>
+                <th style="text-align: center;">כרטיסים</th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-buyer>
+            <tr>
+                <td>{{buyer.firstName}} {{buyer.lastName}}</td>
+                <td>{{buyer.email}}</td>
+                <td style="text-align: center;">{{buyer.ticketsPurshased}}</td>
+            </tr>
+        </ng-template>
+    </p-table>
+
+    <div *ngIf="!isLoading && buyers.length === 0" class="no-data">
+        <p>אין רוכשים למתנה זו</p>
+    </div>
+</p-dialog>

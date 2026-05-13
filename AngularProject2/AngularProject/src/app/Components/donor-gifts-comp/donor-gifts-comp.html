@@ -1,0 +1,43 @@
+
+<div class="container p-4">
+  <button pButton label="חזרה לרשימת התורמים" icon="pi pi-arrow-left" routerLink="/donors"
+    class="p-button-outlined p-button-secondary mb-4">
+  </button>
+
+  <div *ngIf="loading" class="text-center">
+    <p>טוען נתונים...</p>
+  </div>
+
+  <div *ngIf="!loading && donor">
+    <h2 class="mb-3">מתנות שנתרמו על ידי: {{ donor.firstName }} {{ donor.lastName }}</h2>
+
+    <p-table [value]="donor.gifts || []" [responsiveLayout]="'scroll'" styleClass="p-datatable-striped">
+      <ng-template pTemplate="header">
+        <tr>
+          <th>תמונה</th>
+          <th>שם המתנה</th>
+          <th>קטגוריה</th>
+          <th>מחיר כרטיס</th>
+        </tr>
+      </ng-template>
+
+      <ng-template pTemplate="body" let-gift>
+        <tr>
+          <td>
+            <img [src]="'assets/images/gifts/' + gift.image" [alt]="gift.name" width="50" class="shadow-2" />
+          </td>
+
+          <td>{{ gift.name }}</td>
+          <td>{{ gift.category }}</td>
+          <td>{{ gift.ticketPrice | currency:'ILS':'symbol' }}</td>
+        </tr>
+      </ng-template>
+
+      <ng-template pTemplate="emptymessage">
+        <tr>
+          <td colspan="4" class="text-center p-4">לא נמצאו מתנות עבור תורם זה.</td>
+        </tr>
+      </ng-template>
+    </p-table>
+  </div>
+</div>

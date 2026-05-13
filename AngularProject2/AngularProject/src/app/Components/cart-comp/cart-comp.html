@@ -1,0 +1,143 @@
+<div class="card p-4">
+  <div class="card flex flex-column items-center justify-center gap-4" >
+
+    <div class="flex flex-row gap-4 w-full justify-content-center">
+      @for (msg of messages(); track msg.content) {
+      <p-button [severity]="msg.severity" [outlined]="true" [label]="msg.content" class="cursor-pointer mb-2"
+        styleClass="w-full" (click)="onMessageClick(msg.action)" />
+      }
+    </div>
+    <div class="flex flex-column gap-2 w-full" style="max-width: 1000px; margin: 0 auto;">
+
+      <p-dataView *ngIf="!showPaidOrders() && (cartData()?.items?.length)" [value]="cartData()?.items || []">
+        <ng-template pTemplate="list" let-items>
+
+          <div class="p-4 flex justify-content-end">
+<div class="p-4 flex justify-content-end">
+  <p-button 
+    label="לתשלום"
+    icon="pi pi-credit-card" 
+    styleClass="to-pay-btn"
+    (onClick)="toPay()">
+  </p-button>
+</div>
+          </div>
+
+          <div class="grid">
+            <div class="col-12" *ngFor="let item of items; let first = first">
+              <div class="flex flex-column md:flex-row align-items-center p-4 gap-4"
+                [ngClass]="{'border-top-1 surface-border': !first}">
+                <img (click)="details(item.giftId)" [src]="'assets/images/gifts/' + item.image" [alt]="item.name"
+                  style="width: 100px; height: 110px;">
+
+                <div class="flex flex-column md:flex-row justify-content-between align-items-center flex-1 gap-6">
+                  <div class="flex flex-column align-items-center md:align-items-start gap-2">
+                    <a [routerLink]="['/gift', item.giftId]">{{ item.giftName }}</a>
+                    <span class="text-secondary text-sm bg-blue-50 p-1 border-round">
+                      מחיר יחידה: {{ item.ticketPrice | currency:'ILS' }}
+                    </span>
+                  </div>
+
+                  <div class="flex flex-row md:flex-column align-items-center md:align-items-end gap-4">
+
+                    <div class="flex align-items-center gap-2">
+                      <p-button icon="pi pi-minus" severity="secondary" [rounded]="true" [text]="true"
+                        (onClick)="minusOne(item)" [disabled]="item.quantity <= 1">
+                      </p-button>
+                      <span class="text-xl font-bold w-2rem text-center">{{ item.quantity }}</span>
+                      <p-button icon="pi pi-plus" severity="primary" [rounded]="true" [text]="true"
+                        (onClick)="plusOne(item)">
+                      </p-button>
+                    </div>
+
+                    <div class="flex align-items-center gap-2 ">
+
+                      <span class="text-2xl font-semibold text-primary">
+                        {{ item.ticketPrice * item.quantity | currency:'ILS' }}
+                      </span>
+
+                      <p-button icon="pi pi-trash" severity="danger" [outlined]="true" class="p-button-sm"
+                        (onClick)="deleteItem(item)">
+                      </p-button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </ng-template>
+      </p-dataView>
+    </div>
+    <div *ngIf="!showPaidOrders() && !(cartData()?.items?.length)"
+      class="flex flex-column align-items-center p-8 text-center">
+      <i class="pi pi-shopping-cart text-6xl text-300"></i>
+      <h2 class="text-2xl font-light mt-4 text-600">העגלה שלך ריקה</h2>
+      <p-button label="המשך לקנות" icon="pi pi-arrow-left" class="mt-4" (onClick)="goToAllGifts()"></p-button>
+    </div>
+
+    <p-dataView *ngIf="showPaidOrders() && paidOrders().length" [value]="paidOrders()" layout="list">
+      <ng-template pTemplate="list" let-orders>
+        <div class="grid w-full">
+          <div class="col-12" *ngFor="let order of orders">
+            <div class="p-4 border-1 surface-border border-round mb-4">
+              <h3 class="mb-3 text-primary">הזמנה #{{ order.id }}</h3>
+
+              <p-table [value]="order.items" [tableStyle]="{'min-width': '50rem'}" styleClass="p-datatable-striped">
+                <ng-template pTemplate="header">
+                  <tr>
+                    <th>שם</th>
+                    <th>תמונה</th>
+                    <th>מחיר</th>
+                    <th>קטגוריה</th>
+                    <th>כמות</th>
+                    <th>סה"כ</th>
+                  </tr>
+                </ng-template>
+                <ng-template pTemplate="body" let-item>
+                  <tr>
+                    <a [routerLink]="['/gift', item.giftId]">{{ item.giftName }}</a>
+                    <td>
+                      <img [src]="'assets/images/gifts/' + item.image" [alt]="item.giftName"
+                        style="width: 50px; border-radius: 4px;" />
+                    </td>
+                    <td>{{ item.ticketPrice | currency: 'ILS' }}</td>
+                    <td>{{ item.category }}</td>
+                    <td>{{ item.quantity }}</td>
+                    <td>{{ (item.ticketPrice * item.quantity) | currency: 'ILS' }}</td>
+                  </tr>
+                </ng-template>
+                <ng-template pTemplate="footer">
+                  <tr>
+                    <td colspan="6" class="text-right font-bold">
+                      סה"כ הזמנה: {{ getOrderTotal(order) | currency:'ILS' }}
+                    </td>
+                  </tr>
+                </ng-template>
+              </p-table>
+            </div>
+          </div>
+        </div>
+      </ng-template>
+    </p-dataView>
+
+    <div *ngIf="showPaidOrders() && !paidOrders().length" class="text-center p-8">
+      <i class="pi pi-history text-6xl text-300"></i>
+      <h2 class="text-2xl font-light mt-4 text-600">אין הזמנות קודמות</h2>
+    </div>
+
+  </div>
+</div> <p-dialog header="אישור תשלום" [(visible)]="confirmDialogVisible" [modal]="true" [closable]="false"
+  [style]="{width: '400px'}">
+  <div class="flex flex-column align-items-center p-3">
+    <i class="pi pi-exclamation-circle text-6xl text-warning mb-4"></i>
+    <p class="text-xl mb-2 text-center">האם אתה בטוח שברצונך לשלם?</p>
+    <p class="text-2xl font-bold text-primary">סה"כ לתשלום: {{ totalToPay() | currency:'ILS' }}</p>
+  </div>
+  <ng-template pTemplate="footer">
+    <div class="flex justify-content-center gap-3">
+      <p-button label="ביטול" icon="pi pi-times" severity="secondary" [text]="true"
+        (onClick)="cancelPayment()"></p-button>
+      <p-button label="אישור ותשלום" icon="pi pi-check" severity="success" (onClick)="toPay()"></p-button>
+    </div>
+  </ng-template>
+</p-dialog>

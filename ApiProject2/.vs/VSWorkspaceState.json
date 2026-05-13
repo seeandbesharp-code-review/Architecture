@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiProject",
+    "\\ApiProject\\Controllers",
+    "\\ApiProject\\DTO",
+    "\\ApiProject\\Repositories",
+    "\\ApiProject\\Repositories\\Implement",
+    "\\ApiProject\\Services",
+    "\\ApiProject\\Services\\Implement"
+  ],
+  "SelectedNode": "\\ApiProject\\Repositories\\Implement\\SalesRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

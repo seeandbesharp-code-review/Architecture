@@ -1,0 +1,71 @@
+services:
+
+  # ── Backend: ASP.NET Core API ─────────────────────────────────────────────
+  api:
+    build:
+      context: ./ApiProject2
+      dockerfile: ApiProject/Dockerfile
+    ports:
+      - "5132:8080"   # Angular services call localhost:5132 → container listens on 8080
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ConnectionStrings__DefaultConnection=Server=sqlserver,1433;Database=ProjectDb;User Id=sa;Password=YourPassword123!;TrustServerCertificate=True
+      - Redis__ConnectionString=redis:6379,password=RedisPass123
+      - Redis__GiftsTtlSeconds=60
+      - Jwt__Secret=GiftLotteryPlatform_JwtSecretKey_Sari_2025_HmacSha256
+      - Jwt__Issuer=SariApi
+      - Jwt__Audience=sariUsers
+      - Jwt__ExpireHours=2
+      - Email__EmailAddress=${EMAIL_ADDRESS}
+      - Email__AppPassword=${EMAIL_APP_PASSWORD}
+    depends_on:
+      sqlserver:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    restart: unless-stopped
+
+  # ── Frontend: Angular (served by nginx) ───────────────────────────────────
+  frontend:
+    build:
+      context: ./AngularProject2/AngularProject
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    depends_on:
+      - api
+    restart: unless-stopped
+
+  # ── SQL Server 2022 ───────────────────────────────────────────────────────
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=YourPassword123!
+      - SA_PASSWORD=YourPassword123!
+      - MSSQL_PID=Express
+    ports:
+      - "1434:1433"
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+    healthcheck:
+      test: ["CMD", "/opt/mssql-tools18/bin/sqlcmd", "-S", "localhost", "-U", "sa", "-P", "YourPassword123!", "-Q", "SELECT 1", "-No"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+    restart: unless-stopped
+
+  # ── Redis (caching) ───────────────────────────────────────────────────────
+  redis:
+    image: redis:7-alpine
+    command: redis-server --requirepass RedisPass123
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    restart: unless-stopped
+
+volumes:
+  sqlserver_data:
+  redis_data:

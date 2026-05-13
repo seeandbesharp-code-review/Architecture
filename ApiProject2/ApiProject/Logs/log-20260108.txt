@@ -1,0 +1,104 @@
+2026-01-08 23:19:43.669 +02:00 [INF] Starting Gifts API
+2026-01-08 23:20:58.793 +02:00 [INF] Gifts API is now running
+2026-01-08 23:20:58.926 +02:00 [INF] User profile is available. Using 'C:\Users\belli\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-01-08 23:21:00.401 +02:00 [INF] Now listening on: http://localhost:5132
+2026-01-08 23:21:01.270 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/swagger/index.html - null null
+2026-01-08 23:21:02.680 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-08 23:21:02.685 +02:00 [INF] Hosting environment: Development
+2026-01-08 23:21:02.687 +02:00 [INF] Content root path: E:\Api Project\ApiProject2\ApiProject
+2026-01-08 23:21:02.781 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/swagger/index.html - 200 null text/html;charset=utf-8 1597.5581ms
+2026-01-08 23:21:02.807 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/_vs/browserLink - null null
+2026-01-08 23:21:02.825 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-08 23:21:02.839 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 13.2936ms
+2026-01-08 23:21:03.006 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/_vs/browserLink - 200 null text/javascript; charset=UTF-8 200.5317ms
+2026-01-08 23:21:03.449 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/swagger/v1/swagger.json - null null
+2026-01-08 23:21:05.234 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 1784.5788ms
+2026-01-08 23:22:02.018 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5132/api/Auth/register - application/json 127
+2026-01-08 23:22:02.079 +02:00 [WRN] Failed to determine the https port for redirect.
+2026-01-08 23:22:04.957 +02:00 [INF] Incoming Request: POST /api/Auth/register
+2026-01-08 23:22:26.492 +02:00 [INF] Executing endpoint 'ApiProject.Controllers.AuthController.Register (ApiProject)'
+2026-01-08 23:22:26.547 +02:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(RegisterDto) on controller ApiProject.Controllers.AuthController (ApiProject).
+2026-01-08 23:22:49.736 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/swagger/index.html - null null
+2026-01-08 23:22:49.763 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/swagger/index.html - 200 null text/html;charset=utf-8 32.9785ms
+2026-01-08 23:22:49.795 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/swagger/swagger-ui.css - null null
+2026-01-08 23:22:49.810 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/swagger/swagger-ui-bundle.js - null null
+2026-01-08 23:22:49.800 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/swagger/swagger-ui-standalone-preset.js - null null
+2026-01-08 23:22:49.818 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-08 23:22:49.869 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 57.9633ms
+2026-01-08 23:22:49.833 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/_vs/browserLink - null null
+2026-01-08 23:22:49.907 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/_vs/browserLink - 200 null text/javascript; charset=UTF-8 80.1511ms
+2026-01-08 23:22:53.230 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-01-08 23:22:53.235 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/swagger/swagger-ui.css - 200 152034 text/css 3440.3564ms
+2026-01-08 23:22:54.754 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-01-08 23:22:54.759 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 4958.9445ms
+2026-01-08 23:23:11.977 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-01-08 23:23:12.227 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 22416.4556ms
+2026-01-08 23:23:12.386 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/swagger/v1/swagger.json - null null
+2026-01-08 23:23:12.423 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 35.726ms
+2026-01-08 23:23:12.436 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/swagger/favicon-32x32.png - null null
+2026-01-08 23:23:12.443 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-01-08 23:23:12.448 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/swagger/favicon-32x32.png - 200 628 image/png 11.8398ms
+2026-01-08 23:23:19.107 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2026-01-08 23:23:19.434 +02:00 [INF] Executed action ApiProject.Controllers.AuthController.Register (ApiProject) in 52878.5165ms
+2026-01-08 23:23:19.438 +02:00 [INF] Executed endpoint 'ApiProject.Controllers.AuthController.Register (ApiProject)'
+2026-01-08 23:23:19.441 +02:00 [INF] Completed POST /api/Auth/register responded 400 in 74486ms
+2026-01-08 23:23:19.448 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5132/api/Auth/register - 400 null application/problem+json; charset=utf-8 77429.7994ms
+2026-01-08 23:42:57.275 +02:00 [INF] Starting Gifts API
+2026-01-08 23:42:58.103 +02:00 [INF] Gifts API is now running
+2026-01-08 23:42:58.146 +02:00 [INF] User profile is available. Using 'C:\Users\belli\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-01-08 23:42:58.351 +02:00 [INF] Now listening on: http://localhost:5132
+2026-01-08 23:42:58.815 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-08 23:42:58.820 +02:00 [INF] Hosting environment: Development
+2026-01-08 23:42:58.822 +02:00 [INF] Content root path: E:\Api Project\ApiProject2\ApiProject
+2026-01-08 23:42:59.048 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/swagger/index.html - null null
+2026-01-08 23:42:59.647 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/swagger/index.html - 200 null text/html;charset=utf-8 605.9635ms
+2026-01-08 23:42:59.671 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/_vs/browserLink - null null
+2026-01-08 23:42:59.684 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-08 23:42:59.695 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 10.6652ms
+2026-01-08 23:42:59.744 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/_vs/browserLink - 200 null text/javascript; charset=UTF-8 74.8028ms
+2026-01-08 23:42:59.839 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5132/swagger/v1/swagger.json - null null
+2026-01-08 23:42:59.898 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5132/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 59.2476ms
+2026-01-08 23:44:10.977 +02:00 [INF] Starting Gifts API
+2026-01-08 23:44:11.492 +02:00 [FTL] Application terminated unexpectedly
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at System.Diagnostics.DiagnosticSource.Write[T](String name, T value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\Api Project\ApiProject2\ApiProject\Program.cs:line 129
+2026-01-08 23:46:18.994 +02:00 [INF] Starting Gifts API
+2026-01-08 23:46:19.128 +02:00 [FTL] Application terminated unexpectedly
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at System.Diagnostics.DiagnosticSource.Write[T](String name, T value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\Api Project\ApiProject2\ApiProject\Program.cs:line 129
+2026-01-08 23:51:18.956 +02:00 [INF] Starting Gifts API
+2026-01-08 23:51:23.937 +02:00 [FTL] Application terminated unexpectedly
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at System.Diagnostics.DiagnosticSource.Write[T](String name, T value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\Api Project\ApiProject2\ApiProject\Program.cs:line 133
+2026-01-08 23:53:47.078 +02:00 [INF] Starting Gifts API
+2026-01-08 23:53:47.214 +02:00 [FTL] Application terminated unexpectedly
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at System.Diagnostics.DiagnosticSource.Write[T](String name, T value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\Api Project\ApiProject2\ApiProject\Program.cs:line 133
